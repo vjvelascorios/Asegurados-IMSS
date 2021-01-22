@@ -10,7 +10,8 @@ El código se actualizará en función de la publicación de nuevos datos, sin e
 
 2021/01/22: Creación del repositorio.
 
-2021/01/23: Se hace público el repositorio actualizado hasta diciembre de 2020.
 
 
 ## Funcionamiento del código
+
+Pendiente
