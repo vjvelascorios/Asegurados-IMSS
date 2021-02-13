@@ -1,4 +1,4 @@
-Year,Month,Initial_link,Left,Center,Right,Union,Final_link
+﻿Year,Month,Initial_link,Initial_link,Center,Right,Union,Final_link
 1997,august,http://datos.imss.gob.mx/node/549/download,http://datos.imss.gob.mx/node/,751,/download,http://datos.imss.gob.mx/node/751/download,http://datos.imss.gob.mx/node/751/download
 1997,september,http://datos.imss.gob.mx/node/549/download,http://datos.imss.gob.mx/node/,750,/download,http://datos.imss.gob.mx/node/750/download,http://datos.imss.gob.mx/node/750/download
 1997,october,http://datos.imss.gob.mx/node/549/download,http://datos.imss.gob.mx/node/,749,/download,http://datos.imss.gob.mx/node/749/download,http://datos.imss.gob.mx/node/749/download
@@ -280,3 +280,4 @@ Year,Month,Initial_link,Left,Center,Right,Union,Final_link
 2020,october,http://datos.imss.gob.mx/node/1007/download,http://datos.imss.gob.mx/node/,1102,/download,http://datos.imss.gob.mx/node/1102/download,http://datos.imss.gob.mx/node/1102/download
 2020,november,http://datos.imss.gob.mx/node/1007/download,http://datos.imss.gob.mx/node/,1104,/download,http://datos.imss.gob.mx/node/1104/download,http://datos.imss.gob.mx/node/1104/download
 2020,december,http://datos.imss.gob.mx/node/1007/download,http://datos.imss.gob.mx/node/,1107,/download,http://datos.imss.gob.mx/node/1107/download,http://datos.imss.gob.mx/node/1107/download
+2021,january,http://datos.imss.gob.mx/node/1113/download,http://datos.imss.gob.mx/node/,1113,/download,http://datos.imss.gob.mx/node/1113/download,http://datos.imss.gob.mx/node/1113/download
