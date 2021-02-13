@@ -6,6 +6,7 @@ pacman::p_load(downloader, tidyverse, RCurl, beepr, tictoc)
 dir<-setwd("Z:/Datos/ASG IMSS/")
 #Se carga la tabla con las ligas para accesar a los datos
 links<-read_csv(url("https://raw.githubusercontent.com/vjvelascorios/Asegurados-IMSS/main/Utilities/Tabla_direcciones.csv"))
+#tail(links)
 #################################################################################
 #################################################################################
 
