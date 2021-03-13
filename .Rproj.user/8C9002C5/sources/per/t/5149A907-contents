@@ -4,8 +4,11 @@ Automatización para  la descarga de datos correspondientes a los [asegurados](h
 
 El código se actualizará en función de la publicación de nuevos datos posteriores al 2021, sin embargo, como alternativa se pretende realizar un código intuitivo para que el usuario pueda realizar modificaciones y extensiones por su propia cuenta. Adicionalmente, se adjunta un pequeño ejemplo sobre el funcionamiento y descarga de los datos.
 
-Adicionalmente,  puedes consultar el presente documento en mi [sitio web](https://www.vjvelascorios.netlify.app/) donde debido al resaltado del código es posible una mejor comprensión.
+Adicionalmente,  puedes consultar el presente documento en mi [sitio web](https://vjvelascorios.netlify.app/posts/descarga-de-asegurados-imss/) donde debido al resaltado del código es posible una mejor comprensión.
 ## Cambios y actualizaciones
+
+- 2021/03/12: Actualización febrero 2021
+
 - 2021/02/06: Código final al 2020 y ejemplo mínimo.
 
 - 2021/01/22: Creación del repositorio.
@@ -43,7 +46,6 @@ dir_completa_de_guardado<-as.data.frame(dir_completa_de_guardado)
 ```
 ### 4. Descarga de los datos
 ``` r
-  {
     tic()
     download.file(url= as.character(links_mensuales[1,3]) ,destfile=dir_completa_de_guardado[1,1]  , method = "libcurl")
     download.file(url= as.character(links_mensuales[2,3]) ,destfile=dir_completa_de_guardado[2,1]  , method = "libcurl")
@@ -70,4 +72,4 @@ dir_completa_de_guardado<-as.data.frame(dir_completa_de_guardado)
 
 2. Los datos descargados tienen un corte al último día del mes (asegurados totales al final de mes), sin embargo, **por practicidad del código** la notación de los archivos **cambia al primer dia del mes**: "asg-2012-12-31" cambia a "asg-2012-12-01", manteniendo, por supuesto, el mismo periodo de corte (final del mes).
 
-Cualquier duda o nota puedes colocarla en los issues del repositorio o en mis redes sociales: [twitter](www.twitter.com/vjvelascorios) o [mail](mailto:vj.velascorios@protonmail.com).
+Cualquier duda o nota puedes colocarla en los issues del repositorio o en mis redes sociales: [twitter](https://www.twitter.com/vjvelascorios) o [mail](mailto:vj.velascorios@protonmail.com).
