@@ -3,23 +3,23 @@
     "path": "C:/Users/vjvelascorios/Google Drive/Xcore/Proyectos/Asegurados-IMSS/Code/Descarga de asegurados IMSS.R",
     "project_path": "Code/Descarga de asegurados IMSS.R",
     "type": "r_source",
-    "hash": "1901713327",
+    "hash": "1527688828",
     "contents": "",
     "dirty": false,
     "created": 1612625069742.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
-        "cursorPosition": "1289,22",
-        "scrollLine": "1286",
+        "cursorPosition": "0,0",
+        "scrollLine": "0",
         "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1618260796,
+    "lastKnownWriteTime": 1620859328,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1618260796864,
+    "last_content_update": 1620859328,
     "read_only": false,
     "read_only_alternatives": []
 }
