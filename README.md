@@ -7,6 +7,8 @@ El código se actualizará en función de la publicación de nuevos datos poster
 Adicionalmente,  puedes consultar el presente documento en mi [sitio web](https://vjvelascorios.netlify.app/posts/descarga-de-asegurados-imss/) donde debido al resaltado del código es posible una mejor comprensión.
 ## Cambios y actualizaciones
 
+- 2021/06/12: Actualización mayo 2021
+
 - 2021/05/12: Actualización abril 2021
 
 - 2021/04/12: Actualización marzo 2021
