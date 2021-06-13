@@ -1,286 +1,287 @@
-﻿Year,Month,Initial_link,Initial_link,Center,Right,Union,Final_link
-1997,august,http://datos.imss.gob.mx/node/549/download,http://datos.imss.gob.mx/node/,751,/download,http://datos.imss.gob.mx/node/751/download,http://datos.imss.gob.mx/node/751/download
-1997,september,http://datos.imss.gob.mx/node/549/download,http://datos.imss.gob.mx/node/,750,/download,http://datos.imss.gob.mx/node/750/download,http://datos.imss.gob.mx/node/750/download
-1997,october,http://datos.imss.gob.mx/node/549/download,http://datos.imss.gob.mx/node/,749,/download,http://datos.imss.gob.mx/node/749/download,http://datos.imss.gob.mx/node/749/download
-1997,november,http://datos.imss.gob.mx/node/549/download,http://datos.imss.gob.mx/node/,741,/download,http://datos.imss.gob.mx/node/741/download,http://datos.imss.gob.mx/node/741/download
-1997,december,http://datos.imss.gob.mx/node/549/download,http://datos.imss.gob.mx/node/,610,/download,http://datos.imss.gob.mx/node/610/download,http://datos.imss.gob.mx/node/610/download
-1998,january,http://datos.imss.gob.mx/node/748/download,http://datos.imss.gob.mx/node/,748,/download,http://datos.imss.gob.mx/node/748/download,http://datos.imss.gob.mx/node/748/download
-1998,february,http://datos.imss.gob.mx/node/748/download,http://datos.imss.gob.mx/node/,747,/download,http://datos.imss.gob.mx/node/747/download,http://datos.imss.gob.mx/node/747/download
-1998,march,http://datos.imss.gob.mx/node/748/download,http://datos.imss.gob.mx/node/,746,/download,http://datos.imss.gob.mx/node/746/download,http://datos.imss.gob.mx/node/746/download
-1998,april,http://datos.imss.gob.mx/node/748/download,http://datos.imss.gob.mx/node/,745,/download,http://datos.imss.gob.mx/node/745/download,http://datos.imss.gob.mx/node/745/download
-1998,may,http://datos.imss.gob.mx/node/748/download,http://datos.imss.gob.mx/node/,744,/download,http://datos.imss.gob.mx/node/744/download,http://datos.imss.gob.mx/node/744/download
-1998,june,http://datos.imss.gob.mx/node/748/download,http://datos.imss.gob.mx/node/,743,/download,http://datos.imss.gob.mx/node/743/download,http://datos.imss.gob.mx/node/743/download
-1998,july,http://datos.imss.gob.mx/node/748/download,http://datos.imss.gob.mx/node/,742,/download,http://datos.imss.gob.mx/node/742/download,http://datos.imss.gob.mx/node/742/download
-1998,august,http://datos.imss.gob.mx/node/748/download,http://datos.imss.gob.mx/node/,740,/download,http://datos.imss.gob.mx/node/740/download,http://datos.imss.gob.mx/node/740/download
-1998,september,http://datos.imss.gob.mx/node/748/download,http://datos.imss.gob.mx/node/,739,/download,http://datos.imss.gob.mx/node/739/download,http://datos.imss.gob.mx/node/739/download
-1998,october,http://datos.imss.gob.mx/node/748/download,http://datos.imss.gob.mx/node/,738,/download,http://datos.imss.gob.mx/node/738/download,http://datos.imss.gob.mx/node/738/download
-1998,november,http://datos.imss.gob.mx/node/748/download,http://datos.imss.gob.mx/node/,737,/download,http://datos.imss.gob.mx/node/737/download,http://datos.imss.gob.mx/node/737/download
-1998,december,http://datos.imss.gob.mx/node/748/download,http://datos.imss.gob.mx/node/,612,/download,http://datos.imss.gob.mx/node/612/download,http://datos.imss.gob.mx/node/612/download
-1999,january,http://datos.imss.gob.mx/node/736/download,http://datos.imss.gob.mx/node/,736,/download,http://datos.imss.gob.mx/node/736/download,http://datos.imss.gob.mx/node/736/download
-1999,february,http://datos.imss.gob.mx/node/736/download,http://datos.imss.gob.mx/node/,735,/download,http://datos.imss.gob.mx/node/735/download,http://datos.imss.gob.mx/node/735/download
-1999,march,http://datos.imss.gob.mx/node/736/download,http://datos.imss.gob.mx/node/,734,/download,http://datos.imss.gob.mx/node/734/download,http://datos.imss.gob.mx/node/734/download
-1999,april,http://datos.imss.gob.mx/node/736/download,http://datos.imss.gob.mx/node/,733,/download,http://datos.imss.gob.mx/node/733/download,http://datos.imss.gob.mx/node/733/download
-1999,may,http://datos.imss.gob.mx/node/736/download,http://datos.imss.gob.mx/node/,732,/download,http://datos.imss.gob.mx/node/732/download,http://datos.imss.gob.mx/node/732/download
-1999,june,http://datos.imss.gob.mx/node/736/download,http://datos.imss.gob.mx/node/,731,/download,http://datos.imss.gob.mx/node/731/download,http://datos.imss.gob.mx/node/731/download
-1999,july,http://datos.imss.gob.mx/node/736/download,http://datos.imss.gob.mx/node/,730,/download,http://datos.imss.gob.mx/node/730/download,http://datos.imss.gob.mx/node/730/download
-1999,august,http://datos.imss.gob.mx/node/736/download,http://datos.imss.gob.mx/node/,729,/download,http://datos.imss.gob.mx/node/729/download,http://datos.imss.gob.mx/node/729/download
-1999,september,http://datos.imss.gob.mx/node/736/download,http://datos.imss.gob.mx/node/,728,/download,http://datos.imss.gob.mx/node/728/download,http://datos.imss.gob.mx/node/728/download
-1999,october,http://datos.imss.gob.mx/node/736/download,http://datos.imss.gob.mx/node/,726,/download,http://datos.imss.gob.mx/node/726/download,http://datos.imss.gob.mx/node/726/download
-1999,november,http://datos.imss.gob.mx/node/736/download,http://datos.imss.gob.mx/node/,725,/download,http://datos.imss.gob.mx/node/725/download,http://datos.imss.gob.mx/node/725/download
-1999,december,http://datos.imss.gob.mx/node/736/download,http://datos.imss.gob.mx/node/,614,/download,http://datos.imss.gob.mx/node/614/download,http://datos.imss.gob.mx/node/614/download
-2000,january,http://datos.imss.gob.mx/node/595/download,http://datos.imss.gob.mx/node/,595,/download,http://datos.imss.gob.mx/node/595/download,http://datos.imss.gob.mx/node/595/download
-2000,february,http://datos.imss.gob.mx/node/595/download,http://datos.imss.gob.mx/node/,596,/download,http://datos.imss.gob.mx/node/596/download,http://datos.imss.gob.mx/node/596/download
-2000,march,http://datos.imss.gob.mx/node/595/download,http://datos.imss.gob.mx/node/,597,/download,http://datos.imss.gob.mx/node/597/download,http://datos.imss.gob.mx/node/597/download
-2000,april,http://datos.imss.gob.mx/node/595/download,http://datos.imss.gob.mx/node/,598,/download,http://datos.imss.gob.mx/node/598/download,http://datos.imss.gob.mx/node/598/download
-2000,may,http://datos.imss.gob.mx/node/595/download,http://datos.imss.gob.mx/node/,599,/download,http://datos.imss.gob.mx/node/599/download,http://datos.imss.gob.mx/node/599/download
-2000,june,http://datos.imss.gob.mx/node/595/download,http://datos.imss.gob.mx/node/,600,/download,http://datos.imss.gob.mx/node/600/download,http://datos.imss.gob.mx/node/600/download
-2000,july,http://datos.imss.gob.mx/node/595/download,http://datos.imss.gob.mx/node/,601,/download,http://datos.imss.gob.mx/node/601/download,http://datos.imss.gob.mx/node/601/download
-2000,august,http://datos.imss.gob.mx/node/595/download,http://datos.imss.gob.mx/node/,602,/download,http://datos.imss.gob.mx/node/602/download,http://datos.imss.gob.mx/node/602/download
-2000,september,http://datos.imss.gob.mx/node/595/download,http://datos.imss.gob.mx/node/,603,/download,http://datos.imss.gob.mx/node/603/download,http://datos.imss.gob.mx/node/603/download
-2000,october,http://datos.imss.gob.mx/node/595/download,http://datos.imss.gob.mx/node/,604,/download,http://datos.imss.gob.mx/node/604/download,http://datos.imss.gob.mx/node/604/download
-2000,november,http://datos.imss.gob.mx/node/595/download,http://datos.imss.gob.mx/node/,605,/download,http://datos.imss.gob.mx/node/605/download,http://datos.imss.gob.mx/node/605/download
-2000,december,http://datos.imss.gob.mx/node/595/download,http://datos.imss.gob.mx/node/,506,/download,http://datos.imss.gob.mx/node/506/download,http://datos.imss.gob.mx/node/506/download
-2001,january,http://datos.imss.gob.mx/node/558/download,http://datos.imss.gob.mx/node/,558,/download,http://datos.imss.gob.mx/node/558/download,http://datos.imss.gob.mx/node/558/download
-2001,february,http://datos.imss.gob.mx/node/558/download,http://datos.imss.gob.mx/node/,559,/download,http://datos.imss.gob.mx/node/559/download,http://datos.imss.gob.mx/node/559/download
-2001,march,http://datos.imss.gob.mx/node/558/download,http://datos.imss.gob.mx/node/,560,/download,http://datos.imss.gob.mx/node/560/download,http://datos.imss.gob.mx/node/560/download
-2001,april,http://datos.imss.gob.mx/node/558/download,http://datos.imss.gob.mx/node/,561,/download,http://datos.imss.gob.mx/node/561/download,http://datos.imss.gob.mx/node/561/download
-2001,may,http://datos.imss.gob.mx/node/558/download,http://datos.imss.gob.mx/node/,562,/download,http://datos.imss.gob.mx/node/562/download,http://datos.imss.gob.mx/node/562/download
-2001,june,http://datos.imss.gob.mx/node/558/download,http://datos.imss.gob.mx/node/,563,/download,http://datos.imss.gob.mx/node/563/download,http://datos.imss.gob.mx/node/563/download
-2001,july,http://datos.imss.gob.mx/node/558/download,http://datos.imss.gob.mx/node/,564,/download,http://datos.imss.gob.mx/node/564/download,http://datos.imss.gob.mx/node/564/download
-2001,august,http://datos.imss.gob.mx/node/558/download,http://datos.imss.gob.mx/node/,565,/download,http://datos.imss.gob.mx/node/565/download,http://datos.imss.gob.mx/node/565/download
-2001,september,http://datos.imss.gob.mx/node/558/download,http://datos.imss.gob.mx/node/,566,/download,http://datos.imss.gob.mx/node/566/download,http://datos.imss.gob.mx/node/566/download
-2001,october,http://datos.imss.gob.mx/node/558/download,http://datos.imss.gob.mx/node/,567,/download,http://datos.imss.gob.mx/node/567/download,http://datos.imss.gob.mx/node/567/download
-2001,november,http://datos.imss.gob.mx/node/558/download,http://datos.imss.gob.mx/node/,568,/download,http://datos.imss.gob.mx/node/568/download,http://datos.imss.gob.mx/node/568/download
-2001,december,http://datos.imss.gob.mx/node/558/download,http://datos.imss.gob.mx/node/,508,/download,http://datos.imss.gob.mx/node/508/download,http://datos.imss.gob.mx/node/508/download
-2002,january,http://datos.imss.gob.mx/node/549/download,http://datos.imss.gob.mx/node/,549,/download,http://datos.imss.gob.mx/node/549/download,http://datos.imss.gob.mx/node/549/download
-2002,february,http://datos.imss.gob.mx/node/549/download,http://datos.imss.gob.mx/node/,550,/download,http://datos.imss.gob.mx/node/550/download,http://datos.imss.gob.mx/node/550/download
-2002,march,http://datos.imss.gob.mx/node/549/download,http://datos.imss.gob.mx/node/,551,/download,http://datos.imss.gob.mx/node/551/download,http://datos.imss.gob.mx/node/551/download
-2002,april,http://datos.imss.gob.mx/node/549/download,http://datos.imss.gob.mx/node/,545,/download,http://datos.imss.gob.mx/node/545/download,http://datos.imss.gob.mx/node/545/download
-2002,may,http://datos.imss.gob.mx/node/549/download,http://datos.imss.gob.mx/node/,546,/download,http://datos.imss.gob.mx/node/546/download,http://datos.imss.gob.mx/node/546/download
-2002,june,http://datos.imss.gob.mx/node/549/download,http://datos.imss.gob.mx/node/,552,/download,http://datos.imss.gob.mx/node/552/download,http://datos.imss.gob.mx/node/552/download
-2002,july,http://datos.imss.gob.mx/node/549/download,http://datos.imss.gob.mx/node/,553,/download,http://datos.imss.gob.mx/node/553/download,http://datos.imss.gob.mx/node/553/download
-2002,august,http://datos.imss.gob.mx/node/549/download,http://datos.imss.gob.mx/node/,554,/download,http://datos.imss.gob.mx/node/554/download,http://datos.imss.gob.mx/node/554/download
-2002,september,http://datos.imss.gob.mx/node/549/download,http://datos.imss.gob.mx/node/,555,/download,http://datos.imss.gob.mx/node/555/download,http://datos.imss.gob.mx/node/555/download
-2002,october,http://datos.imss.gob.mx/node/549/download,http://datos.imss.gob.mx/node/,556,/download,http://datos.imss.gob.mx/node/556/download,http://datos.imss.gob.mx/node/556/download
-2002,november,http://datos.imss.gob.mx/node/549/download,http://datos.imss.gob.mx/node/,557,/download,http://datos.imss.gob.mx/node/557/download,http://datos.imss.gob.mx/node/557/download
-2002,december,http://datos.imss.gob.mx/node/549/download,http://datos.imss.gob.mx/node/,511,/download,http://datos.imss.gob.mx/node/511/download,http://datos.imss.gob.mx/node/511/download
-2003,january,http://datos.imss.gob.mx/node/515/download,http://datos.imss.gob.mx/node/,515,/download,http://datos.imss.gob.mx/node/515/download,http://datos.imss.gob.mx/node/515/download
-2003,february,http://datos.imss.gob.mx/node/515/download,http://datos.imss.gob.mx/node/,516,/download,http://datos.imss.gob.mx/node/516/download,http://datos.imss.gob.mx/node/516/download
-2003,march,http://datos.imss.gob.mx/node/515/download,http://datos.imss.gob.mx/node/,517,/download,http://datos.imss.gob.mx/node/517/download,http://datos.imss.gob.mx/node/517/download
-2003,april,http://datos.imss.gob.mx/node/515/download,http://datos.imss.gob.mx/node/,518,/download,http://datos.imss.gob.mx/node/518/download,http://datos.imss.gob.mx/node/518/download
-2003,may,http://datos.imss.gob.mx/node/515/download,http://datos.imss.gob.mx/node/,519,/download,http://datos.imss.gob.mx/node/519/download,http://datos.imss.gob.mx/node/519/download
-2003,june,http://datos.imss.gob.mx/node/515/download,http://datos.imss.gob.mx/node/,520,/download,http://datos.imss.gob.mx/node/520/download,http://datos.imss.gob.mx/node/520/download
-2003,july,http://datos.imss.gob.mx/node/515/download,http://datos.imss.gob.mx/node/,521,/download,http://datos.imss.gob.mx/node/521/download,http://datos.imss.gob.mx/node/521/download
-2003,august,http://datos.imss.gob.mx/node/515/download,http://datos.imss.gob.mx/node/,522,/download,http://datos.imss.gob.mx/node/522/download,http://datos.imss.gob.mx/node/522/download
-2003,september,http://datos.imss.gob.mx/node/515/download,http://datos.imss.gob.mx/node/,523,/download,http://datos.imss.gob.mx/node/523/download,http://datos.imss.gob.mx/node/523/download
-2003,october,http://datos.imss.gob.mx/node/515/download,http://datos.imss.gob.mx/node/,524,/download,http://datos.imss.gob.mx/node/524/download,http://datos.imss.gob.mx/node/524/download
-2003,november,http://datos.imss.gob.mx/node/515/download,http://datos.imss.gob.mx/node/,525,/download,http://datos.imss.gob.mx/node/525/download,http://datos.imss.gob.mx/node/525/download
-2003,december,http://datos.imss.gob.mx/node/515/download,http://datos.imss.gob.mx/node/,512,/download,http://datos.imss.gob.mx/node/512/download,http://datos.imss.gob.mx/node/512/download
-2004,january,http://datos.imss.gob.mx/node/387/download,http://datos.imss.gob.mx/node/,387,/download,http://datos.imss.gob.mx/node/387/download,http://datos.imss.gob.mx/node/387/download
-2004,february,http://datos.imss.gob.mx/node/387/download,http://datos.imss.gob.mx/node/,388,/download,http://datos.imss.gob.mx/node/388/download,http://datos.imss.gob.mx/node/388/download
-2004,march,http://datos.imss.gob.mx/node/387/download,http://datos.imss.gob.mx/node/,389,/download,http://datos.imss.gob.mx/node/389/download,http://datos.imss.gob.mx/node/389/download
-2004,april,http://datos.imss.gob.mx/node/387/download,http://datos.imss.gob.mx/node/,390,/download,http://datos.imss.gob.mx/node/390/download,http://datos.imss.gob.mx/node/390/download
-2004,may,http://datos.imss.gob.mx/node/387/download,http://datos.imss.gob.mx/node/,391,/download,http://datos.imss.gob.mx/node/391/download,http://datos.imss.gob.mx/node/391/download
-2004,june,http://datos.imss.gob.mx/node/387/download,http://datos.imss.gob.mx/node/,392,/download,http://datos.imss.gob.mx/node/392/download,http://datos.imss.gob.mx/node/392/download
-2004,july,http://datos.imss.gob.mx/node/387/download,http://datos.imss.gob.mx/node/,393,/download,http://datos.imss.gob.mx/node/393/download,http://datos.imss.gob.mx/node/393/download
-2004,august,http://datos.imss.gob.mx/node/387/download,http://datos.imss.gob.mx/node/,394,/download,http://datos.imss.gob.mx/node/394/download,http://datos.imss.gob.mx/node/394/download
-2004,september,http://datos.imss.gob.mx/node/387/download,http://datos.imss.gob.mx/node/,395,/download,http://datos.imss.gob.mx/node/395/download,http://datos.imss.gob.mx/node/395/download
-2004,october,http://datos.imss.gob.mx/node/387/download,http://datos.imss.gob.mx/node/,396,/download,http://datos.imss.gob.mx/node/396/download,http://datos.imss.gob.mx/node/396/download
-2004,november,http://datos.imss.gob.mx/node/387/download,http://datos.imss.gob.mx/node/,397,/download,http://datos.imss.gob.mx/node/397/download,http://datos.imss.gob.mx/node/397/download
-2004,december,http://datos.imss.gob.mx/node/387/download,http://datos.imss.gob.mx/node/,398,/download,http://datos.imss.gob.mx/node/398/download,http://datos.imss.gob.mx/node/398/download
-2005,january,http://datos.imss.gob.mx/node/333/download,http://datos.imss.gob.mx/node/,333,/download,http://datos.imss.gob.mx/node/333/download,http://datos.imss.gob.mx/node/333/download
-2005,february,http://datos.imss.gob.mx/node/333/download,http://datos.imss.gob.mx/node/,334,/download,http://datos.imss.gob.mx/node/334/download,http://datos.imss.gob.mx/node/334/download
-2005,march,http://datos.imss.gob.mx/node/333/download,http://datos.imss.gob.mx/node/,335,/download,http://datos.imss.gob.mx/node/335/download,http://datos.imss.gob.mx/node/335/download
-2005,april,http://datos.imss.gob.mx/node/333/download,http://datos.imss.gob.mx/node/,336,/download,http://datos.imss.gob.mx/node/336/download,http://datos.imss.gob.mx/node/336/download
-2005,may,http://datos.imss.gob.mx/node/333/download,http://datos.imss.gob.mx/node/,337,/download,http://datos.imss.gob.mx/node/337/download,http://datos.imss.gob.mx/node/337/download
-2005,june,http://datos.imss.gob.mx/node/333/download,http://datos.imss.gob.mx/node/,338,/download,http://datos.imss.gob.mx/node/338/download,http://datos.imss.gob.mx/node/338/download
-2005,july,http://datos.imss.gob.mx/node/333/download,http://datos.imss.gob.mx/node/,339,/download,http://datos.imss.gob.mx/node/339/download,http://datos.imss.gob.mx/node/339/download
-2005,august,http://datos.imss.gob.mx/node/333/download,http://datos.imss.gob.mx/node/,340,/download,http://datos.imss.gob.mx/node/340/download,http://datos.imss.gob.mx/node/340/download
-2005,september,http://datos.imss.gob.mx/node/333/download,http://datos.imss.gob.mx/node/,341,/download,http://datos.imss.gob.mx/node/341/download,http://datos.imss.gob.mx/node/341/download
-2005,october,http://datos.imss.gob.mx/node/333/download,http://datos.imss.gob.mx/node/,342,/download,http://datos.imss.gob.mx/node/342/download,http://datos.imss.gob.mx/node/342/download
-2005,november,http://datos.imss.gob.mx/node/333/download,http://datos.imss.gob.mx/node/,343,/download,http://datos.imss.gob.mx/node/343/download,http://datos.imss.gob.mx/node/343/download
-2005,december,http://datos.imss.gob.mx/node/333/download,http://datos.imss.gob.mx/node/,344,/download,http://datos.imss.gob.mx/node/344/download,http://datos.imss.gob.mx/node/344/download
-2006,january,http://datos.imss.gob.mx/node/294/download,http://datos.imss.gob.mx/node/,294,/download,http://datos.imss.gob.mx/node/294/download,http://datos.imss.gob.mx/node/294/download
-2006,february,http://datos.imss.gob.mx/node/294/download,http://datos.imss.gob.mx/node/,295,/download,http://datos.imss.gob.mx/node/295/download,http://datos.imss.gob.mx/node/295/download
-2006,march,http://datos.imss.gob.mx/node/294/download,http://datos.imss.gob.mx/node/,296,/download,http://datos.imss.gob.mx/node/296/download,http://datos.imss.gob.mx/node/296/download
-2006,april,http://datos.imss.gob.mx/node/294/download,http://datos.imss.gob.mx/node/,297,/download,http://datos.imss.gob.mx/node/297/download,http://datos.imss.gob.mx/node/297/download
-2006,may,http://datos.imss.gob.mx/node/294/download,http://datos.imss.gob.mx/node/,298,/download,http://datos.imss.gob.mx/node/298/download,http://datos.imss.gob.mx/node/298/download
-2006,june,http://datos.imss.gob.mx/node/294/download,http://datos.imss.gob.mx/node/,299,/download,http://datos.imss.gob.mx/node/299/download,http://datos.imss.gob.mx/node/299/download
-2006,july,http://datos.imss.gob.mx/node/294/download,http://datos.imss.gob.mx/node/,300,/download,http://datos.imss.gob.mx/node/300/download,http://datos.imss.gob.mx/node/300/download
-2006,august,http://datos.imss.gob.mx/node/294/download,http://datos.imss.gob.mx/node/,301,/download,http://datos.imss.gob.mx/node/301/download,http://datos.imss.gob.mx/node/301/download
-2006,september,http://datos.imss.gob.mx/node/294/download,http://datos.imss.gob.mx/node/,302,/download,http://datos.imss.gob.mx/node/302/download,http://datos.imss.gob.mx/node/302/download
-2006,october,http://datos.imss.gob.mx/node/294/download,http://datos.imss.gob.mx/node/,303,/download,http://datos.imss.gob.mx/node/303/download,http://datos.imss.gob.mx/node/303/download
-2006,november,http://datos.imss.gob.mx/node/294/download,http://datos.imss.gob.mx/node/,304,/download,http://datos.imss.gob.mx/node/304/download,http://datos.imss.gob.mx/node/304/download
-2006,december,http://datos.imss.gob.mx/node/294/download,http://datos.imss.gob.mx/node/,305,/download,http://datos.imss.gob.mx/node/305/download,http://datos.imss.gob.mx/node/305/download
-2007,january,http://datos.imss.gob.mx/node/281/download,http://datos.imss.gob.mx/node/,281,/download,http://datos.imss.gob.mx/node/281/download,http://datos.imss.gob.mx/node/281/download
-2007,february,http://datos.imss.gob.mx/node/281/download,http://datos.imss.gob.mx/node/,282,/download,http://datos.imss.gob.mx/node/282/download,http://datos.imss.gob.mx/node/282/download
-2007,march,http://datos.imss.gob.mx/node/281/download,http://datos.imss.gob.mx/node/,283,/download,http://datos.imss.gob.mx/node/283/download,http://datos.imss.gob.mx/node/283/download
-2007,april,http://datos.imss.gob.mx/node/281/download,http://datos.imss.gob.mx/node/,284,/download,http://datos.imss.gob.mx/node/284/download,http://datos.imss.gob.mx/node/284/download
-2007,may,http://datos.imss.gob.mx/node/281/download,http://datos.imss.gob.mx/node/,285,/download,http://datos.imss.gob.mx/node/285/download,http://datos.imss.gob.mx/node/285/download
-2007,june,http://datos.imss.gob.mx/node/281/download,http://datos.imss.gob.mx/node/,286,/download,http://datos.imss.gob.mx/node/286/download,http://datos.imss.gob.mx/node/286/download
-2007,july,http://datos.imss.gob.mx/node/281/download,http://datos.imss.gob.mx/node/,287,/download,http://datos.imss.gob.mx/node/287/download,http://datos.imss.gob.mx/node/287/download
-2007,august,http://datos.imss.gob.mx/node/281/download,http://datos.imss.gob.mx/node/,288,/download,http://datos.imss.gob.mx/node/288/download,http://datos.imss.gob.mx/node/288/download
-2007,september,http://datos.imss.gob.mx/node/281/download,http://datos.imss.gob.mx/node/,289,/download,http://datos.imss.gob.mx/node/289/download,http://datos.imss.gob.mx/node/289/download
-2007,october,http://datos.imss.gob.mx/node/281/download,http://datos.imss.gob.mx/node/,290,/download,http://datos.imss.gob.mx/node/290/download,http://datos.imss.gob.mx/node/290/download
-2007,november,http://datos.imss.gob.mx/node/281/download,http://datos.imss.gob.mx/node/,291,/download,http://datos.imss.gob.mx/node/291/download,http://datos.imss.gob.mx/node/291/download
-2007,december,http://datos.imss.gob.mx/node/281/download,http://datos.imss.gob.mx/node/,292,/download,http://datos.imss.gob.mx/node/292/download,http://datos.imss.gob.mx/node/292/download
-2008,january,http://datos.imss.gob.mx/node/262/download,http://datos.imss.gob.mx/node/,262,/download,http://datos.imss.gob.mx/node/262/download,http://datos.imss.gob.mx/node/262/download
-2008,february,http://datos.imss.gob.mx/node/262/download,http://datos.imss.gob.mx/node/,264,/download,http://datos.imss.gob.mx/node/264/download,http://datos.imss.gob.mx/node/264/download
-2008,march,http://datos.imss.gob.mx/node/262/download,http://datos.imss.gob.mx/node/,265,/download,http://datos.imss.gob.mx/node/265/download,http://datos.imss.gob.mx/node/265/download
-2008,april,http://datos.imss.gob.mx/node/262/download,http://datos.imss.gob.mx/node/,266,/download,http://datos.imss.gob.mx/node/266/download,http://datos.imss.gob.mx/node/266/download
-2008,may,http://datos.imss.gob.mx/node/262/download,http://datos.imss.gob.mx/node/,267,/download,http://datos.imss.gob.mx/node/267/download,http://datos.imss.gob.mx/node/267/download
-2008,june,http://datos.imss.gob.mx/node/262/download,http://datos.imss.gob.mx/node/,268,/download,http://datos.imss.gob.mx/node/268/download,http://datos.imss.gob.mx/node/268/download
-2008,july,http://datos.imss.gob.mx/node/262/download,http://datos.imss.gob.mx/node/,269,/download,http://datos.imss.gob.mx/node/269/download,http://datos.imss.gob.mx/node/269/download
-2008,august,http://datos.imss.gob.mx/node/262/download,http://datos.imss.gob.mx/node/,270,/download,http://datos.imss.gob.mx/node/270/download,http://datos.imss.gob.mx/node/270/download
-2008,september,http://datos.imss.gob.mx/node/262/download,http://datos.imss.gob.mx/node/,271,/download,http://datos.imss.gob.mx/node/271/download,http://datos.imss.gob.mx/node/271/download
-2008,october,http://datos.imss.gob.mx/node/262/download,http://datos.imss.gob.mx/node/,272,/download,http://datos.imss.gob.mx/node/272/download,http://datos.imss.gob.mx/node/272/download
-2008,november,http://datos.imss.gob.mx/node/262/download,http://datos.imss.gob.mx/node/,273,/download,http://datos.imss.gob.mx/node/273/download,http://datos.imss.gob.mx/node/273/download
-2008,december,http://datos.imss.gob.mx/node/262/download,http://datos.imss.gob.mx/node/,277,/download,http://datos.imss.gob.mx/node/277/download,http://datos.imss.gob.mx/node/277/download
-2009,january,http://datos.imss.gob.mx/node/158/download,http://datos.imss.gob.mx/node/,158,/download,http://datos.imss.gob.mx/node/158/download,http://datos.imss.gob.mx/node/158/download
-2009,february,http://datos.imss.gob.mx/node/158/download,http://datos.imss.gob.mx/node/,160,/download,http://datos.imss.gob.mx/node/160/download,http://datos.imss.gob.mx/node/160/download
-2009,march,http://datos.imss.gob.mx/node/158/download,http://datos.imss.gob.mx/node/,161,/download,http://datos.imss.gob.mx/node/161/download,http://datos.imss.gob.mx/node/161/download
-2009,april,http://datos.imss.gob.mx/node/158/download,http://datos.imss.gob.mx/node/,168,/download,http://datos.imss.gob.mx/node/168/download,http://datos.imss.gob.mx/node/168/download
-2009,may,http://datos.imss.gob.mx/node/158/download,http://datos.imss.gob.mx/node/,180,/download,http://datos.imss.gob.mx/node/180/download,http://datos.imss.gob.mx/node/180/download
-2009,june,http://datos.imss.gob.mx/node/158/download,http://datos.imss.gob.mx/node/,182,/download,http://datos.imss.gob.mx/node/182/download,http://datos.imss.gob.mx/node/182/download
-2009,july,http://datos.imss.gob.mx/node/158/download,http://datos.imss.gob.mx/node/,183,/download,http://datos.imss.gob.mx/node/183/download,http://datos.imss.gob.mx/node/183/download
-2009,august,http://datos.imss.gob.mx/node/158/download,http://datos.imss.gob.mx/node/,184,/download,http://datos.imss.gob.mx/node/184/download,http://datos.imss.gob.mx/node/184/download
-2009,september,http://datos.imss.gob.mx/node/158/download,http://datos.imss.gob.mx/node/,185,/download,http://datos.imss.gob.mx/node/185/download,http://datos.imss.gob.mx/node/185/download
-2009,october,http://datos.imss.gob.mx/node/158/download,http://datos.imss.gob.mx/node/,186,/download,http://datos.imss.gob.mx/node/186/download,http://datos.imss.gob.mx/node/186/download
-2009,november,http://datos.imss.gob.mx/node/158/download,http://datos.imss.gob.mx/node/,187,/download,http://datos.imss.gob.mx/node/187/download,http://datos.imss.gob.mx/node/187/download
-2009,december,http://datos.imss.gob.mx/node/158/download,http://datos.imss.gob.mx/node/,188,/download,http://datos.imss.gob.mx/node/188/download,http://datos.imss.gob.mx/node/188/download
-2010,january,http://datos.imss.gob.mx/node/169/download,http://datos.imss.gob.mx/node/,169,/download,http://datos.imss.gob.mx/node/169/download,http://datos.imss.gob.mx/node/169/download
-2010,february,http://datos.imss.gob.mx/node/169/download,http://datos.imss.gob.mx/node/,170,/download,http://datos.imss.gob.mx/node/170/download,http://datos.imss.gob.mx/node/170/download
-2010,march,http://datos.imss.gob.mx/node/169/download,http://datos.imss.gob.mx/node/,171,/download,http://datos.imss.gob.mx/node/171/download,http://datos.imss.gob.mx/node/171/download
-2010,april,http://datos.imss.gob.mx/node/169/download,http://datos.imss.gob.mx/node/,172,/download,http://datos.imss.gob.mx/node/172/download,http://datos.imss.gob.mx/node/172/download
-2010,may,http://datos.imss.gob.mx/node/169/download,http://datos.imss.gob.mx/node/,173,/download,http://datos.imss.gob.mx/node/173/download,http://datos.imss.gob.mx/node/173/download
-2010,june,http://datos.imss.gob.mx/node/169/download,http://datos.imss.gob.mx/node/,174,/download,http://datos.imss.gob.mx/node/174/download,http://datos.imss.gob.mx/node/174/download
-2010,july,http://datos.imss.gob.mx/node/169/download,http://datos.imss.gob.mx/node/,175,/download,http://datos.imss.gob.mx/node/175/download,http://datos.imss.gob.mx/node/175/download
-2010,august,http://datos.imss.gob.mx/node/169/download,http://datos.imss.gob.mx/node/,176,/download,http://datos.imss.gob.mx/node/176/download,http://datos.imss.gob.mx/node/176/download
-2010,september,http://datos.imss.gob.mx/node/169/download,http://datos.imss.gob.mx/node/,177,/download,http://datos.imss.gob.mx/node/177/download,http://datos.imss.gob.mx/node/177/download
-2010,october,http://datos.imss.gob.mx/node/169/download,http://datos.imss.gob.mx/node/,178,/download,http://datos.imss.gob.mx/node/178/download,http://datos.imss.gob.mx/node/178/download
-2010,november,http://datos.imss.gob.mx/node/169/download,http://datos.imss.gob.mx/node/,179,/download,http://datos.imss.gob.mx/node/179/download,http://datos.imss.gob.mx/node/179/download
-2010,december,http://datos.imss.gob.mx/node/169/download,http://datos.imss.gob.mx/node/,181,/download,http://datos.imss.gob.mx/node/181/download,http://datos.imss.gob.mx/node/181/download
-2011,january,http://datos.imss.gob.mx/node/159/download,http://datos.imss.gob.mx/node/,159,/download,http://datos.imss.gob.mx/node/159/download,http://datos.imss.gob.mx/node/159/download
-2011,february,http://datos.imss.gob.mx/node/159/download,http://datos.imss.gob.mx/node/,156,/download,http://datos.imss.gob.mx/node/156/download,http://datos.imss.gob.mx/node/156/download
-2011,march,http://datos.imss.gob.mx/node/159/download,http://datos.imss.gob.mx/node/,155,/download,http://datos.imss.gob.mx/node/155/download,http://datos.imss.gob.mx/node/155/download
-2011,april,http://datos.imss.gob.mx/node/159/download,http://datos.imss.gob.mx/node/,154,/download,http://datos.imss.gob.mx/node/154/download,http://datos.imss.gob.mx/node/154/download
-2011,may,http://datos.imss.gob.mx/node/159/download,http://datos.imss.gob.mx/node/,153,/download,http://datos.imss.gob.mx/node/153/download,http://datos.imss.gob.mx/node/153/download
-2011,june,http://datos.imss.gob.mx/node/159/download,http://datos.imss.gob.mx/node/,152,/download,http://datos.imss.gob.mx/node/152/download,http://datos.imss.gob.mx/node/152/download
-2011,july,http://datos.imss.gob.mx/node/159/download,http://datos.imss.gob.mx/node/,151,/download,http://datos.imss.gob.mx/node/151/download,http://datos.imss.gob.mx/node/151/download
-2011,august,http://datos.imss.gob.mx/node/159/download,http://datos.imss.gob.mx/node/,150,/download,http://datos.imss.gob.mx/node/150/download,http://datos.imss.gob.mx/node/150/download
-2011,september,http://datos.imss.gob.mx/node/159/download,http://datos.imss.gob.mx/node/,149,/download,http://datos.imss.gob.mx/node/149/download,http://datos.imss.gob.mx/node/149/download
-2011,october,http://datos.imss.gob.mx/node/159/download,http://datos.imss.gob.mx/node/,148,/download,http://datos.imss.gob.mx/node/148/download,http://datos.imss.gob.mx/node/148/download
-2011,november,http://datos.imss.gob.mx/node/159/download,http://datos.imss.gob.mx/node/,147,/download,http://datos.imss.gob.mx/node/147/download,http://datos.imss.gob.mx/node/147/download
-2011,december,http://datos.imss.gob.mx/node/159/download,http://datos.imss.gob.mx/node/,146,/download,http://datos.imss.gob.mx/node/146/download,http://datos.imss.gob.mx/node/146/download
-2012,january,http://datos.imss.gob.mx/node/143/download,http://datos.imss.gob.mx/node/,143,/download,http://datos.imss.gob.mx/node/143/download,http://datos.imss.gob.mx/node/143/download
-2012,february,http://datos.imss.gob.mx/node/143/download,http://datos.imss.gob.mx/node/,142,/download,http://datos.imss.gob.mx/node/142/download,http://datos.imss.gob.mx/node/142/download
-2012,march,http://datos.imss.gob.mx/node/143/download,http://datos.imss.gob.mx/node/,141,/download,http://datos.imss.gob.mx/node/141/download,http://datos.imss.gob.mx/node/141/download
-2012,april,http://datos.imss.gob.mx/node/143/download,http://datos.imss.gob.mx/node/,140,/download,http://datos.imss.gob.mx/node/140/download,http://datos.imss.gob.mx/node/140/download
-2012,may,http://datos.imss.gob.mx/node/143/download,http://datos.imss.gob.mx/node/,139,/download,http://datos.imss.gob.mx/node/139/download,http://datos.imss.gob.mx/node/139/download
-2012,june,http://datos.imss.gob.mx/node/143/download,http://datos.imss.gob.mx/node/,138,/download,http://datos.imss.gob.mx/node/138/download,http://datos.imss.gob.mx/node/138/download
-2012,july,http://datos.imss.gob.mx/node/143/download,http://datos.imss.gob.mx/node/,137,/download,http://datos.imss.gob.mx/node/137/download,http://datos.imss.gob.mx/node/137/download
-2012,august,http://datos.imss.gob.mx/node/143/download,http://datos.imss.gob.mx/node/,136,/download,http://datos.imss.gob.mx/node/136/download,http://datos.imss.gob.mx/node/136/download
-2012,september,http://datos.imss.gob.mx/node/143/download,http://datos.imss.gob.mx/node/,135,/download,http://datos.imss.gob.mx/node/135/download,http://datos.imss.gob.mx/node/135/download
-2012,october,http://datos.imss.gob.mx/node/143/download,http://datos.imss.gob.mx/node/,134,/download,http://datos.imss.gob.mx/node/134/download,http://datos.imss.gob.mx/node/134/download
-2012,november,http://datos.imss.gob.mx/node/143/download,http://datos.imss.gob.mx/node/,133,/download,http://datos.imss.gob.mx/node/133/download,http://datos.imss.gob.mx/node/133/download
-2012,december,http://datos.imss.gob.mx/node/143/download,http://datos.imss.gob.mx/node/,84,/download,http://datos.imss.gob.mx/node/84/download,http://datos.imss.gob.mx/node/84/download
-2013,january,http://datos.imss.gob.mx/node/20/download,http://datos.imss.gob.mx/node/,20,/download,http://datos.imss.gob.mx/node/20/download,http://datos.imss.gob.mx/node/20/download
-2013,february,http://datos.imss.gob.mx/node/20/download,http://datos.imss.gob.mx/node/,23,/download,http://datos.imss.gob.mx/node/23/download,http://datos.imss.gob.mx/node/23/download
-2013,march,http://datos.imss.gob.mx/node/20/download,http://datos.imss.gob.mx/node/,24,/download,http://datos.imss.gob.mx/node/24/download,http://datos.imss.gob.mx/node/24/download
-2013,april,http://datos.imss.gob.mx/node/20/download,http://datos.imss.gob.mx/node/,55,/download,http://datos.imss.gob.mx/node/55/download,http://datos.imss.gob.mx/node/55/download
-2013,may,http://datos.imss.gob.mx/node/20/download,http://datos.imss.gob.mx/node/,57,/download,http://datos.imss.gob.mx/node/57/download,http://datos.imss.gob.mx/node/57/download
-2013,june,http://datos.imss.gob.mx/node/20/download,http://datos.imss.gob.mx/node/,58,/download,http://datos.imss.gob.mx/node/58/download,http://datos.imss.gob.mx/node/58/download
-2013,july,http://datos.imss.gob.mx/node/20/download,http://datos.imss.gob.mx/node/,59,/download,http://datos.imss.gob.mx/node/59/download,http://datos.imss.gob.mx/node/59/download
-2013,august,http://datos.imss.gob.mx/node/20/download,http://datos.imss.gob.mx/node/,60,/download,http://datos.imss.gob.mx/node/60/download,http://datos.imss.gob.mx/node/60/download
-2013,september,http://datos.imss.gob.mx/node/20/download,http://datos.imss.gob.mx/node/,63,/download,http://datos.imss.gob.mx/node/63/download,http://datos.imss.gob.mx/node/63/download
-2013,october,http://datos.imss.gob.mx/node/20/download,http://datos.imss.gob.mx/node/,64,/download,http://datos.imss.gob.mx/node/64/download,http://datos.imss.gob.mx/node/64/download
-2013,november,http://datos.imss.gob.mx/node/20/download,http://datos.imss.gob.mx/node/,65,/download,http://datos.imss.gob.mx/node/65/download,http://datos.imss.gob.mx/node/65/download
-2013,december,http://datos.imss.gob.mx/node/20/download,http://datos.imss.gob.mx/node/,66,/download,http://datos.imss.gob.mx/node/66/download,http://datos.imss.gob.mx/node/66/download
-2014,january,http://datos.imss.gob.mx/node/72/download,http://datos.imss.gob.mx/node/,72,/download,http://datos.imss.gob.mx/node/72/download,http://datos.imss.gob.mx/node/72/download
-2014,february,http://datos.imss.gob.mx/node/72/download,http://datos.imss.gob.mx/node/,73,/download,http://datos.imss.gob.mx/node/73/download,http://datos.imss.gob.mx/node/73/download
-2014,march,http://datos.imss.gob.mx/node/72/download,http://datos.imss.gob.mx/node/,74,/download,http://datos.imss.gob.mx/node/74/download,http://datos.imss.gob.mx/node/74/download
-2014,april,http://datos.imss.gob.mx/node/72/download,http://datos.imss.gob.mx/node/,76,/download,http://datos.imss.gob.mx/node/76/download,http://datos.imss.gob.mx/node/76/download
-2014,may,http://datos.imss.gob.mx/node/72/download,http://datos.imss.gob.mx/node/,75,/download,http://datos.imss.gob.mx/node/75/download,http://datos.imss.gob.mx/node/75/download
-2014,june,http://datos.imss.gob.mx/node/72/download,http://datos.imss.gob.mx/node/,77,/download,http://datos.imss.gob.mx/node/77/download,http://datos.imss.gob.mx/node/77/download
-2014,july,http://datos.imss.gob.mx/node/72/download,http://datos.imss.gob.mx/node/,78,/download,http://datos.imss.gob.mx/node/78/download,http://datos.imss.gob.mx/node/78/download
-2014,august,http://datos.imss.gob.mx/node/72/download,http://datos.imss.gob.mx/node/,79,/download,http://datos.imss.gob.mx/node/79/download,http://datos.imss.gob.mx/node/79/download
-2014,september,http://datos.imss.gob.mx/node/72/download,http://datos.imss.gob.mx/node/,81,/download,http://datos.imss.gob.mx/node/81/download,http://datos.imss.gob.mx/node/81/download
-2014,october,http://datos.imss.gob.mx/node/72/download,http://datos.imss.gob.mx/node/,194,/download,http://datos.imss.gob.mx/node/194/download,http://datos.imss.gob.mx/node/194/download
-2014,november,http://datos.imss.gob.mx/node/72/download,http://datos.imss.gob.mx/node/,195,/download,http://datos.imss.gob.mx/node/195/download,http://datos.imss.gob.mx/node/195/download
-2014,december,http://datos.imss.gob.mx/node/72/download,http://datos.imss.gob.mx/node/,196,/download,http://datos.imss.gob.mx/node/196/download,http://datos.imss.gob.mx/node/196/download
-2015,january,http://datos.imss.gob.mx/node/190/download,http://datos.imss.gob.mx/node/,190,/download,http://datos.imss.gob.mx/node/190/download,http://datos.imss.gob.mx/node/190/download
-2015,february,http://datos.imss.gob.mx/node/190/download,http://datos.imss.gob.mx/node/,191,/download,http://datos.imss.gob.mx/node/191/download,http://datos.imss.gob.mx/node/191/download
-2015,march,http://datos.imss.gob.mx/node/190/download,http://datos.imss.gob.mx/node/,192,/download,http://datos.imss.gob.mx/node/192/download,http://datos.imss.gob.mx/node/192/download
-2015,april,http://datos.imss.gob.mx/node/190/download,http://datos.imss.gob.mx/node/,193,/download,http://datos.imss.gob.mx/node/193/download,http://datos.imss.gob.mx/node/193/download
-2015,may,http://datos.imss.gob.mx/node/190/download,http://datos.imss.gob.mx/node/,276,/download,http://datos.imss.gob.mx/node/276/download,http://datos.imss.gob.mx/node/276/download
-2015,june,http://datos.imss.gob.mx/node/190/download,http://datos.imss.gob.mx/node/,279,/download,http://datos.imss.gob.mx/node/279/download,http://datos.imss.gob.mx/node/279/download
-2015,july,http://datos.imss.gob.mx/node/190/download,http://datos.imss.gob.mx/node/,306,/download,http://datos.imss.gob.mx/node/306/download,http://datos.imss.gob.mx/node/306/download
-2015,august,http://datos.imss.gob.mx/node/190/download,http://datos.imss.gob.mx/node/,308,/download,http://datos.imss.gob.mx/node/308/download,http://datos.imss.gob.mx/node/308/download
-2015,september,http://datos.imss.gob.mx/node/190/download,http://datos.imss.gob.mx/node/,310,/download,http://datos.imss.gob.mx/node/310/download,http://datos.imss.gob.mx/node/310/download
-2015,october,http://datos.imss.gob.mx/node/190/download,http://datos.imss.gob.mx/node/,319,/download,http://datos.imss.gob.mx/node/319/download,http://datos.imss.gob.mx/node/319/download
-2015,november,http://datos.imss.gob.mx/node/190/download,http://datos.imss.gob.mx/node/,321,/download,http://datos.imss.gob.mx/node/321/download,http://datos.imss.gob.mx/node/321/download
-2015,december,http://datos.imss.gob.mx/node/190/download,http://datos.imss.gob.mx/node/,325,/download,http://datos.imss.gob.mx/node/325/download,http://datos.imss.gob.mx/node/325/download
-2016,january,http://datos.imss.gob.mx/node/327/download,http://datos.imss.gob.mx/node/,327,/download,http://datos.imss.gob.mx/node/327/download,http://datos.imss.gob.mx/node/327/download
-2016,february,http://datos.imss.gob.mx/node/327/download,http://datos.imss.gob.mx/node/,371,/download,http://datos.imss.gob.mx/node/371/download,http://datos.imss.gob.mx/node/371/download
-2016,march,http://datos.imss.gob.mx/node/327/download,http://datos.imss.gob.mx/node/,377,/download,http://datos.imss.gob.mx/node/377/download,http://datos.imss.gob.mx/node/377/download
-2016,april,http://datos.imss.gob.mx/node/327/download,http://datos.imss.gob.mx/node/,400,/download,http://datos.imss.gob.mx/node/400/download,http://datos.imss.gob.mx/node/400/download
-2016,may,http://datos.imss.gob.mx/node/327/download,http://datos.imss.gob.mx/node/,401,/download,http://datos.imss.gob.mx/node/401/download,http://datos.imss.gob.mx/node/401/download
-2016,june,http://datos.imss.gob.mx/node/327/download,http://datos.imss.gob.mx/node/,405,/download,http://datos.imss.gob.mx/node/405/download,http://datos.imss.gob.mx/node/405/download
-2016,july,http://datos.imss.gob.mx/node/327/download,http://datos.imss.gob.mx/node/,502,/download,http://datos.imss.gob.mx/node/502/download,http://datos.imss.gob.mx/node/502/download
-2016,august,http://datos.imss.gob.mx/node/327/download,http://datos.imss.gob.mx/node/,513,/download,http://datos.imss.gob.mx/node/513/download,http://datos.imss.gob.mx/node/513/download
-2016,september,http://datos.imss.gob.mx/node/327/download,http://datos.imss.gob.mx/node/,526,/download,http://datos.imss.gob.mx/node/526/download,http://datos.imss.gob.mx/node/526/download
-2016,october,http://datos.imss.gob.mx/node/327/download,http://datos.imss.gob.mx/node/,537,/download,http://datos.imss.gob.mx/node/537/download,http://datos.imss.gob.mx/node/537/download
-2016,november,http://datos.imss.gob.mx/node/327/download,http://datos.imss.gob.mx/node/,541,/download,http://datos.imss.gob.mx/node/541/download,http://datos.imss.gob.mx/node/541/download
-2016,december,http://datos.imss.gob.mx/node/327/download,http://datos.imss.gob.mx/node/,543,/download,http://datos.imss.gob.mx/node/543/download,http://datos.imss.gob.mx/node/543/download
-2017,january,http://datos.imss.gob.mx/node/548/download,http://datos.imss.gob.mx/node/,548,/download,http://datos.imss.gob.mx/node/548/download,http://datos.imss.gob.mx/node/548/download
-2017,february,http://datos.imss.gob.mx/node/548/download,http://datos.imss.gob.mx/node/,577,/download,http://datos.imss.gob.mx/node/577/download,http://datos.imss.gob.mx/node/577/download
-2017,march,http://datos.imss.gob.mx/node/548/download,http://datos.imss.gob.mx/node/,580,/download,http://datos.imss.gob.mx/node/580/download,http://datos.imss.gob.mx/node/580/download
-2017,april,http://datos.imss.gob.mx/node/548/download,http://datos.imss.gob.mx/node/,591,/download,http://datos.imss.gob.mx/node/591/download,http://datos.imss.gob.mx/node/591/download
-2017,may,http://datos.imss.gob.mx/node/548/download,http://datos.imss.gob.mx/node/,593,/download,http://datos.imss.gob.mx/node/593/download,http://datos.imss.gob.mx/node/593/download
-2017,june,http://datos.imss.gob.mx/node/548/download,http://datos.imss.gob.mx/node/,607,/download,http://datos.imss.gob.mx/node/607/download,http://datos.imss.gob.mx/node/607/download
-2017,july,http://datos.imss.gob.mx/node/548/download,http://datos.imss.gob.mx/node/,621,/download,http://datos.imss.gob.mx/node/621/download,http://datos.imss.gob.mx/node/621/download
-2017,august,http://datos.imss.gob.mx/node/548/download,http://datos.imss.gob.mx/node/,629,/download,http://datos.imss.gob.mx/node/629/download,http://datos.imss.gob.mx/node/629/download
-2017,september,http://datos.imss.gob.mx/node/548/download,http://datos.imss.gob.mx/node/,634,/download,http://datos.imss.gob.mx/node/634/download,http://datos.imss.gob.mx/node/634/download
-2017,october,http://datos.imss.gob.mx/node/548/download,http://datos.imss.gob.mx/node/,672,/download,http://datos.imss.gob.mx/node/672/download,http://datos.imss.gob.mx/node/672/download
-2017,november,http://datos.imss.gob.mx/node/548/download,http://datos.imss.gob.mx/node/,701,/download,http://datos.imss.gob.mx/node/701/download,http://datos.imss.gob.mx/node/701/download
-2017,december,http://datos.imss.gob.mx/node/548/download,http://datos.imss.gob.mx/node/,702,/download,http://datos.imss.gob.mx/node/702/download,http://datos.imss.gob.mx/node/702/download
-2018,january,http://datos.imss.gob.mx/node/706/download,http://datos.imss.gob.mx/node/,706,/download,http://datos.imss.gob.mx/node/706/download,http://datos.imss.gob.mx/node/706/download
-2018,february,http://datos.imss.gob.mx/node/706/download,http://datos.imss.gob.mx/node/,714,/download,http://datos.imss.gob.mx/node/714/download,http://datos.imss.gob.mx/node/714/download
-2018,march,http://datos.imss.gob.mx/node/706/download,http://datos.imss.gob.mx/node/,716,/download,http://datos.imss.gob.mx/node/716/download,http://datos.imss.gob.mx/node/716/download
-2018,april,http://datos.imss.gob.mx/node/706/download,http://datos.imss.gob.mx/node/,718,/download,http://datos.imss.gob.mx/node/718/download,http://datos.imss.gob.mx/node/718/download
-2018,may,http://datos.imss.gob.mx/node/706/download,http://datos.imss.gob.mx/node/,761,/download,http://datos.imss.gob.mx/node/761/download,http://datos.imss.gob.mx/node/761/download
-2018,june,http://datos.imss.gob.mx/node/706/download,http://datos.imss.gob.mx/node/,763,/download,http://datos.imss.gob.mx/node/763/download,http://datos.imss.gob.mx/node/763/download
-2018,july,http://datos.imss.gob.mx/node/706/download,http://datos.imss.gob.mx/node/,785,/download,http://datos.imss.gob.mx/node/785/download,http://datos.imss.gob.mx/node/785/download
-2018,august,http://datos.imss.gob.mx/node/706/download,http://datos.imss.gob.mx/node/,787,/download,http://datos.imss.gob.mx/node/787/download,http://datos.imss.gob.mx/node/787/download
-2018,september,http://datos.imss.gob.mx/node/706/download,http://datos.imss.gob.mx/node/,795,/download,http://datos.imss.gob.mx/node/795/download,http://datos.imss.gob.mx/node/795/download
-2018,october,http://datos.imss.gob.mx/node/706/download,http://datos.imss.gob.mx/node/,833,/download,http://datos.imss.gob.mx/node/833/download,http://datos.imss.gob.mx/node/833/download
-2018,november,http://datos.imss.gob.mx/node/706/download,http://datos.imss.gob.mx/node/,841,/download,http://datos.imss.gob.mx/node/841/download,http://datos.imss.gob.mx/node/841/download
-2018,december,http://datos.imss.gob.mx/node/706/download,http://datos.imss.gob.mx/node/,843,/download,http://datos.imss.gob.mx/node/843/download,http://datos.imss.gob.mx/node/843/download
-2019,january,http://datos.imss.gob.mx/node/858/download,http://datos.imss.gob.mx/node/,858,/download,http://datos.imss.gob.mx/node/858/download,http://datos.imss.gob.mx/node/858/download
-2019,february,http://datos.imss.gob.mx/node/858/download,http://datos.imss.gob.mx/node/,966,/download,http://datos.imss.gob.mx/node/966/download,http://datos.imss.gob.mx/node/966/download
-2019,march,http://datos.imss.gob.mx/node/858/download,http://datos.imss.gob.mx/node/,974,/download,http://datos.imss.gob.mx/node/974/download,http://datos.imss.gob.mx/node/974/download
-2019,april,http://datos.imss.gob.mx/node/858/download,http://datos.imss.gob.mx/node/,976,/download,http://datos.imss.gob.mx/node/976/download,http://datos.imss.gob.mx/node/976/download
-2019,may,http://datos.imss.gob.mx/node/858/download,http://datos.imss.gob.mx/node/,978,/download,http://datos.imss.gob.mx/node/978/download,http://datos.imss.gob.mx/node/978/download
-2019,june,http://datos.imss.gob.mx/node/858/download,http://datos.imss.gob.mx/node/,980,/download,http://datos.imss.gob.mx/node/980/download,http://datos.imss.gob.mx/node/980/download
-2019,july,http://datos.imss.gob.mx/node/858/download,http://datos.imss.gob.mx/node/,984,/download,http://datos.imss.gob.mx/node/984/download,http://datos.imss.gob.mx/node/984/download
-2019,august,http://datos.imss.gob.mx/node/858/download,http://datos.imss.gob.mx/node/,988,/download,http://datos.imss.gob.mx/node/988/download,http://datos.imss.gob.mx/node/988/download
-2019,september,http://datos.imss.gob.mx/node/858/download,http://datos.imss.gob.mx/node/,990,/download,http://datos.imss.gob.mx/node/990/download,http://datos.imss.gob.mx/node/990/download
-2019,october,http://datos.imss.gob.mx/node/858/download,http://datos.imss.gob.mx/node/,994,/download,http://datos.imss.gob.mx/node/994/download,http://datos.imss.gob.mx/node/994/download
-2019,november,http://datos.imss.gob.mx/node/858/download,http://datos.imss.gob.mx/node/,1002,/download,http://datos.imss.gob.mx/node/1002/download,http://datos.imss.gob.mx/node/1002/download
-2019,december,http://datos.imss.gob.mx/node/858/download,http://datos.imss.gob.mx/node/,1004,/download,http://datos.imss.gob.mx/node/1004/download,http://datos.imss.gob.mx/node/1004/download
-2020,january,http://datos.imss.gob.mx/node/1007/download,http://datos.imss.gob.mx/node/,1007,/download,http://datos.imss.gob.mx/node/1007/download,http://datos.imss.gob.mx/node/1007/download
-2020,february,http://datos.imss.gob.mx/node/1007/download,http://datos.imss.gob.mx/node/,1010,/download,http://datos.imss.gob.mx/node/1010/download,http://datos.imss.gob.mx/node/1010/download
-2020,march,http://datos.imss.gob.mx/node/1007/download,http://datos.imss.gob.mx/node/,1078,/download,http://datos.imss.gob.mx/node/1078/download,http://datos.imss.gob.mx/node/1078/download
-2020,april,http://datos.imss.gob.mx/node/1007/download,http://datos.imss.gob.mx/node/,1080,/download,http://datos.imss.gob.mx/node/1080/download,http://datos.imss.gob.mx/node/1080/download
-2020,may,http://datos.imss.gob.mx/node/1007/download,http://datos.imss.gob.mx/node/,1082,/download,http://datos.imss.gob.mx/node/1082/download,http://datos.imss.gob.mx/node/1082/download
-2020,june,http://datos.imss.gob.mx/node/1007/download,http://datos.imss.gob.mx/node/,1086,/download,http://datos.imss.gob.mx/node/1086/download,http://datos.imss.gob.mx/node/1086/download
-2020,july,http://datos.imss.gob.mx/node/1007/download,http://datos.imss.gob.mx/node/,1090,/download,http://datos.imss.gob.mx/node/1090/download,http://datos.imss.gob.mx/node/1090/download
-2020,august,http://datos.imss.gob.mx/node/1007/download,http://datos.imss.gob.mx/node/,1098,/download,http://datos.imss.gob.mx/node/1098/download,http://datos.imss.gob.mx/node/1098/download
-2020,september,http://datos.imss.gob.mx/node/1007/download,http://datos.imss.gob.mx/node/,1100,/download,http://datos.imss.gob.mx/node/1100/download,http://datos.imss.gob.mx/node/1100/download
-2020,october,http://datos.imss.gob.mx/node/1007/download,http://datos.imss.gob.mx/node/,1102,/download,http://datos.imss.gob.mx/node/1102/download,http://datos.imss.gob.mx/node/1102/download
-2020,november,http://datos.imss.gob.mx/node/1007/download,http://datos.imss.gob.mx/node/,1104,/download,http://datos.imss.gob.mx/node/1104/download,http://datos.imss.gob.mx/node/1104/download
-2020,december,http://datos.imss.gob.mx/node/1007/download,http://datos.imss.gob.mx/node/,1107,/download,http://datos.imss.gob.mx/node/1107/download,http://datos.imss.gob.mx/node/1107/download
-2021,january,http://datos.imss.gob.mx/node/1113/download,http://datos.imss.gob.mx/node/,1113,/download,http://datos.imss.gob.mx/node/1113/download,http://datos.imss.gob.mx/node/1113/download
-2021,february,http://datos.imss.gob.mx/node/1116/download,http://datos.imss.gob.mx/node/,1116,/download,http://datos.imss.gob.mx/node/1116/download,http://datos.imss.gob.mx/node/1116/download
-2021,march,http://datos.imss.gob.mx/node/1118/download,http://datos.imss.gob.mx/node/,1118,/download,http://datos.imss.gob.mx/node/1118/download,http://datos.imss.gob.mx/node/1118/download
-2021,april,http://datos.imss.gob.mx/node/1118/download,http://datos.imss.gob.mx/node/,1120,/download,http://datos.imss.gob.mx/node/1120/download,http://datos.imss.gob.mx/node/1120/download
+Year	Month	Initial_link	Initial_link	Center	Right	Union	Final_link
+1997	august	http://datos.imss.gob.mx/node/549/download	http://datos.imss.gob.mx/node/	751	/download	http://datos.imss.gob.mx/node/751/download	http://datos.imss.gob.mx/node/751/download
+1997	september	http://datos.imss.gob.mx/node/549/download	http://datos.imss.gob.mx/node/	750	/download	http://datos.imss.gob.mx/node/750/download	http://datos.imss.gob.mx/node/750/download
+1997	october	http://datos.imss.gob.mx/node/549/download	http://datos.imss.gob.mx/node/	749	/download	http://datos.imss.gob.mx/node/749/download	http://datos.imss.gob.mx/node/749/download
+1997	november	http://datos.imss.gob.mx/node/549/download	http://datos.imss.gob.mx/node/	741	/download	http://datos.imss.gob.mx/node/741/download	http://datos.imss.gob.mx/node/741/download
+1997	december	http://datos.imss.gob.mx/node/549/download	http://datos.imss.gob.mx/node/	610	/download	http://datos.imss.gob.mx/node/610/download	http://datos.imss.gob.mx/node/610/download
+1998	january	http://datos.imss.gob.mx/node/748/download	http://datos.imss.gob.mx/node/	748	/download	http://datos.imss.gob.mx/node/748/download	http://datos.imss.gob.mx/node/748/download
+1998	february	http://datos.imss.gob.mx/node/748/download	http://datos.imss.gob.mx/node/	747	/download	http://datos.imss.gob.mx/node/747/download	http://datos.imss.gob.mx/node/747/download
+1998	march	http://datos.imss.gob.mx/node/748/download	http://datos.imss.gob.mx/node/	746	/download	http://datos.imss.gob.mx/node/746/download	http://datos.imss.gob.mx/node/746/download
+1998	april	http://datos.imss.gob.mx/node/748/download	http://datos.imss.gob.mx/node/	745	/download	http://datos.imss.gob.mx/node/745/download	http://datos.imss.gob.mx/node/745/download
+1998	may	http://datos.imss.gob.mx/node/748/download	http://datos.imss.gob.mx/node/	744	/download	http://datos.imss.gob.mx/node/744/download	http://datos.imss.gob.mx/node/744/download
+1998	june	http://datos.imss.gob.mx/node/748/download	http://datos.imss.gob.mx/node/	743	/download	http://datos.imss.gob.mx/node/743/download	http://datos.imss.gob.mx/node/743/download
+1998	july	http://datos.imss.gob.mx/node/748/download	http://datos.imss.gob.mx/node/	742	/download	http://datos.imss.gob.mx/node/742/download	http://datos.imss.gob.mx/node/742/download
+1998	august	http://datos.imss.gob.mx/node/748/download	http://datos.imss.gob.mx/node/	740	/download	http://datos.imss.gob.mx/node/740/download	http://datos.imss.gob.mx/node/740/download
+1998	september	http://datos.imss.gob.mx/node/748/download	http://datos.imss.gob.mx/node/	739	/download	http://datos.imss.gob.mx/node/739/download	http://datos.imss.gob.mx/node/739/download
+1998	october	http://datos.imss.gob.mx/node/748/download	http://datos.imss.gob.mx/node/	738	/download	http://datos.imss.gob.mx/node/738/download	http://datos.imss.gob.mx/node/738/download
+1998	november	http://datos.imss.gob.mx/node/748/download	http://datos.imss.gob.mx/node/	737	/download	http://datos.imss.gob.mx/node/737/download	http://datos.imss.gob.mx/node/737/download
+1998	december	http://datos.imss.gob.mx/node/748/download	http://datos.imss.gob.mx/node/	612	/download	http://datos.imss.gob.mx/node/612/download	http://datos.imss.gob.mx/node/612/download
+1999	january	http://datos.imss.gob.mx/node/736/download	http://datos.imss.gob.mx/node/	736	/download	http://datos.imss.gob.mx/node/736/download	http://datos.imss.gob.mx/node/736/download
+1999	february	http://datos.imss.gob.mx/node/736/download	http://datos.imss.gob.mx/node/	735	/download	http://datos.imss.gob.mx/node/735/download	http://datos.imss.gob.mx/node/735/download
+1999	march	http://datos.imss.gob.mx/node/736/download	http://datos.imss.gob.mx/node/	734	/download	http://datos.imss.gob.mx/node/734/download	http://datos.imss.gob.mx/node/734/download
+1999	april	http://datos.imss.gob.mx/node/736/download	http://datos.imss.gob.mx/node/	733	/download	http://datos.imss.gob.mx/node/733/download	http://datos.imss.gob.mx/node/733/download
+1999	may	http://datos.imss.gob.mx/node/736/download	http://datos.imss.gob.mx/node/	732	/download	http://datos.imss.gob.mx/node/732/download	http://datos.imss.gob.mx/node/732/download
+1999	june	http://datos.imss.gob.mx/node/736/download	http://datos.imss.gob.mx/node/	731	/download	http://datos.imss.gob.mx/node/731/download	http://datos.imss.gob.mx/node/731/download
+1999	july	http://datos.imss.gob.mx/node/736/download	http://datos.imss.gob.mx/node/	730	/download	http://datos.imss.gob.mx/node/730/download	http://datos.imss.gob.mx/node/730/download
+1999	august	http://datos.imss.gob.mx/node/736/download	http://datos.imss.gob.mx/node/	729	/download	http://datos.imss.gob.mx/node/729/download	http://datos.imss.gob.mx/node/729/download
+1999	september	http://datos.imss.gob.mx/node/736/download	http://datos.imss.gob.mx/node/	728	/download	http://datos.imss.gob.mx/node/728/download	http://datos.imss.gob.mx/node/728/download
+1999	october	http://datos.imss.gob.mx/node/736/download	http://datos.imss.gob.mx/node/	726	/download	http://datos.imss.gob.mx/node/726/download	http://datos.imss.gob.mx/node/726/download
+1999	november	http://datos.imss.gob.mx/node/736/download	http://datos.imss.gob.mx/node/	725	/download	http://datos.imss.gob.mx/node/725/download	http://datos.imss.gob.mx/node/725/download
+1999	december	http://datos.imss.gob.mx/node/736/download	http://datos.imss.gob.mx/node/	614	/download	http://datos.imss.gob.mx/node/614/download	http://datos.imss.gob.mx/node/614/download
+2000	january	http://datos.imss.gob.mx/node/595/download	http://datos.imss.gob.mx/node/	595	/download	http://datos.imss.gob.mx/node/595/download	http://datos.imss.gob.mx/node/595/download
+2000	february	http://datos.imss.gob.mx/node/595/download	http://datos.imss.gob.mx/node/	596	/download	http://datos.imss.gob.mx/node/596/download	http://datos.imss.gob.mx/node/596/download
+2000	march	http://datos.imss.gob.mx/node/595/download	http://datos.imss.gob.mx/node/	597	/download	http://datos.imss.gob.mx/node/597/download	http://datos.imss.gob.mx/node/597/download
+2000	april	http://datos.imss.gob.mx/node/595/download	http://datos.imss.gob.mx/node/	598	/download	http://datos.imss.gob.mx/node/598/download	http://datos.imss.gob.mx/node/598/download
+2000	may	http://datos.imss.gob.mx/node/595/download	http://datos.imss.gob.mx/node/	599	/download	http://datos.imss.gob.mx/node/599/download	http://datos.imss.gob.mx/node/599/download
+2000	june	http://datos.imss.gob.mx/node/595/download	http://datos.imss.gob.mx/node/	600	/download	http://datos.imss.gob.mx/node/600/download	http://datos.imss.gob.mx/node/600/download
+2000	july	http://datos.imss.gob.mx/node/595/download	http://datos.imss.gob.mx/node/	601	/download	http://datos.imss.gob.mx/node/601/download	http://datos.imss.gob.mx/node/601/download
+2000	august	http://datos.imss.gob.mx/node/595/download	http://datos.imss.gob.mx/node/	602	/download	http://datos.imss.gob.mx/node/602/download	http://datos.imss.gob.mx/node/602/download
+2000	september	http://datos.imss.gob.mx/node/595/download	http://datos.imss.gob.mx/node/	603	/download	http://datos.imss.gob.mx/node/603/download	http://datos.imss.gob.mx/node/603/download
+2000	october	http://datos.imss.gob.mx/node/595/download	http://datos.imss.gob.mx/node/	604	/download	http://datos.imss.gob.mx/node/604/download	http://datos.imss.gob.mx/node/604/download
+2000	november	http://datos.imss.gob.mx/node/595/download	http://datos.imss.gob.mx/node/	605	/download	http://datos.imss.gob.mx/node/605/download	http://datos.imss.gob.mx/node/605/download
+2000	december	http://datos.imss.gob.mx/node/595/download	http://datos.imss.gob.mx/node/	506	/download	http://datos.imss.gob.mx/node/506/download	http://datos.imss.gob.mx/node/506/download
+2001	january	http://datos.imss.gob.mx/node/558/download	http://datos.imss.gob.mx/node/	558	/download	http://datos.imss.gob.mx/node/558/download	http://datos.imss.gob.mx/node/558/download
+2001	february	http://datos.imss.gob.mx/node/558/download	http://datos.imss.gob.mx/node/	559	/download	http://datos.imss.gob.mx/node/559/download	http://datos.imss.gob.mx/node/559/download
+2001	march	http://datos.imss.gob.mx/node/558/download	http://datos.imss.gob.mx/node/	560	/download	http://datos.imss.gob.mx/node/560/download	http://datos.imss.gob.mx/node/560/download
+2001	april	http://datos.imss.gob.mx/node/558/download	http://datos.imss.gob.mx/node/	561	/download	http://datos.imss.gob.mx/node/561/download	http://datos.imss.gob.mx/node/561/download
+2001	may	http://datos.imss.gob.mx/node/558/download	http://datos.imss.gob.mx/node/	562	/download	http://datos.imss.gob.mx/node/562/download	http://datos.imss.gob.mx/node/562/download
+2001	june	http://datos.imss.gob.mx/node/558/download	http://datos.imss.gob.mx/node/	563	/download	http://datos.imss.gob.mx/node/563/download	http://datos.imss.gob.mx/node/563/download
+2001	july	http://datos.imss.gob.mx/node/558/download	http://datos.imss.gob.mx/node/	564	/download	http://datos.imss.gob.mx/node/564/download	http://datos.imss.gob.mx/node/564/download
+2001	august	http://datos.imss.gob.mx/node/558/download	http://datos.imss.gob.mx/node/	565	/download	http://datos.imss.gob.mx/node/565/download	http://datos.imss.gob.mx/node/565/download
+2001	september	http://datos.imss.gob.mx/node/558/download	http://datos.imss.gob.mx/node/	566	/download	http://datos.imss.gob.mx/node/566/download	http://datos.imss.gob.mx/node/566/download
+2001	october	http://datos.imss.gob.mx/node/558/download	http://datos.imss.gob.mx/node/	567	/download	http://datos.imss.gob.mx/node/567/download	http://datos.imss.gob.mx/node/567/download
+2001	november	http://datos.imss.gob.mx/node/558/download	http://datos.imss.gob.mx/node/	568	/download	http://datos.imss.gob.mx/node/568/download	http://datos.imss.gob.mx/node/568/download
+2001	december	http://datos.imss.gob.mx/node/558/download	http://datos.imss.gob.mx/node/	508	/download	http://datos.imss.gob.mx/node/508/download	http://datos.imss.gob.mx/node/508/download
+2002	january	http://datos.imss.gob.mx/node/549/download	http://datos.imss.gob.mx/node/	549	/download	http://datos.imss.gob.mx/node/549/download	http://datos.imss.gob.mx/node/549/download
+2002	february	http://datos.imss.gob.mx/node/549/download	http://datos.imss.gob.mx/node/	550	/download	http://datos.imss.gob.mx/node/550/download	http://datos.imss.gob.mx/node/550/download
+2002	march	http://datos.imss.gob.mx/node/549/download	http://datos.imss.gob.mx/node/	551	/download	http://datos.imss.gob.mx/node/551/download	http://datos.imss.gob.mx/node/551/download
+2002	april	http://datos.imss.gob.mx/node/549/download	http://datos.imss.gob.mx/node/	545	/download	http://datos.imss.gob.mx/node/545/download	http://datos.imss.gob.mx/node/545/download
+2002	may	http://datos.imss.gob.mx/node/549/download	http://datos.imss.gob.mx/node/	546	/download	http://datos.imss.gob.mx/node/546/download	http://datos.imss.gob.mx/node/546/download
+2002	june	http://datos.imss.gob.mx/node/549/download	http://datos.imss.gob.mx/node/	552	/download	http://datos.imss.gob.mx/node/552/download	http://datos.imss.gob.mx/node/552/download
+2002	july	http://datos.imss.gob.mx/node/549/download	http://datos.imss.gob.mx/node/	553	/download	http://datos.imss.gob.mx/node/553/download	http://datos.imss.gob.mx/node/553/download
+2002	august	http://datos.imss.gob.mx/node/549/download	http://datos.imss.gob.mx/node/	554	/download	http://datos.imss.gob.mx/node/554/download	http://datos.imss.gob.mx/node/554/download
+2002	september	http://datos.imss.gob.mx/node/549/download	http://datos.imss.gob.mx/node/	555	/download	http://datos.imss.gob.mx/node/555/download	http://datos.imss.gob.mx/node/555/download
+2002	october	http://datos.imss.gob.mx/node/549/download	http://datos.imss.gob.mx/node/	556	/download	http://datos.imss.gob.mx/node/556/download	http://datos.imss.gob.mx/node/556/download
+2002	november	http://datos.imss.gob.mx/node/549/download	http://datos.imss.gob.mx/node/	557	/download	http://datos.imss.gob.mx/node/557/download	http://datos.imss.gob.mx/node/557/download
+2002	december	http://datos.imss.gob.mx/node/549/download	http://datos.imss.gob.mx/node/	511	/download	http://datos.imss.gob.mx/node/511/download	http://datos.imss.gob.mx/node/511/download
+2003	january	http://datos.imss.gob.mx/node/515/download	http://datos.imss.gob.mx/node/	515	/download	http://datos.imss.gob.mx/node/515/download	http://datos.imss.gob.mx/node/515/download
+2003	february	http://datos.imss.gob.mx/node/515/download	http://datos.imss.gob.mx/node/	516	/download	http://datos.imss.gob.mx/node/516/download	http://datos.imss.gob.mx/node/516/download
+2003	march	http://datos.imss.gob.mx/node/515/download	http://datos.imss.gob.mx/node/	517	/download	http://datos.imss.gob.mx/node/517/download	http://datos.imss.gob.mx/node/517/download
+2003	april	http://datos.imss.gob.mx/node/515/download	http://datos.imss.gob.mx/node/	518	/download	http://datos.imss.gob.mx/node/518/download	http://datos.imss.gob.mx/node/518/download
+2003	may	http://datos.imss.gob.mx/node/515/download	http://datos.imss.gob.mx/node/	519	/download	http://datos.imss.gob.mx/node/519/download	http://datos.imss.gob.mx/node/519/download
+2003	june	http://datos.imss.gob.mx/node/515/download	http://datos.imss.gob.mx/node/	520	/download	http://datos.imss.gob.mx/node/520/download	http://datos.imss.gob.mx/node/520/download
+2003	july	http://datos.imss.gob.mx/node/515/download	http://datos.imss.gob.mx/node/	521	/download	http://datos.imss.gob.mx/node/521/download	http://datos.imss.gob.mx/node/521/download
+2003	august	http://datos.imss.gob.mx/node/515/download	http://datos.imss.gob.mx/node/	522	/download	http://datos.imss.gob.mx/node/522/download	http://datos.imss.gob.mx/node/522/download
+2003	september	http://datos.imss.gob.mx/node/515/download	http://datos.imss.gob.mx/node/	523	/download	http://datos.imss.gob.mx/node/523/download	http://datos.imss.gob.mx/node/523/download
+2003	october	http://datos.imss.gob.mx/node/515/download	http://datos.imss.gob.mx/node/	524	/download	http://datos.imss.gob.mx/node/524/download	http://datos.imss.gob.mx/node/524/download
+2003	november	http://datos.imss.gob.mx/node/515/download	http://datos.imss.gob.mx/node/	525	/download	http://datos.imss.gob.mx/node/525/download	http://datos.imss.gob.mx/node/525/download
+2003	december	http://datos.imss.gob.mx/node/515/download	http://datos.imss.gob.mx/node/	512	/download	http://datos.imss.gob.mx/node/512/download	http://datos.imss.gob.mx/node/512/download
+2004	january	http://datos.imss.gob.mx/node/387/download	http://datos.imss.gob.mx/node/	387	/download	http://datos.imss.gob.mx/node/387/download	http://datos.imss.gob.mx/node/387/download
+2004	february	http://datos.imss.gob.mx/node/387/download	http://datos.imss.gob.mx/node/	388	/download	http://datos.imss.gob.mx/node/388/download	http://datos.imss.gob.mx/node/388/download
+2004	march	http://datos.imss.gob.mx/node/387/download	http://datos.imss.gob.mx/node/	389	/download	http://datos.imss.gob.mx/node/389/download	http://datos.imss.gob.mx/node/389/download
+2004	april	http://datos.imss.gob.mx/node/387/download	http://datos.imss.gob.mx/node/	390	/download	http://datos.imss.gob.mx/node/390/download	http://datos.imss.gob.mx/node/390/download
+2004	may	http://datos.imss.gob.mx/node/387/download	http://datos.imss.gob.mx/node/	391	/download	http://datos.imss.gob.mx/node/391/download	http://datos.imss.gob.mx/node/391/download
+2004	june	http://datos.imss.gob.mx/node/387/download	http://datos.imss.gob.mx/node/	392	/download	http://datos.imss.gob.mx/node/392/download	http://datos.imss.gob.mx/node/392/download
+2004	july	http://datos.imss.gob.mx/node/387/download	http://datos.imss.gob.mx/node/	393	/download	http://datos.imss.gob.mx/node/393/download	http://datos.imss.gob.mx/node/393/download
+2004	august	http://datos.imss.gob.mx/node/387/download	http://datos.imss.gob.mx/node/	394	/download	http://datos.imss.gob.mx/node/394/download	http://datos.imss.gob.mx/node/394/download
+2004	september	http://datos.imss.gob.mx/node/387/download	http://datos.imss.gob.mx/node/	395	/download	http://datos.imss.gob.mx/node/395/download	http://datos.imss.gob.mx/node/395/download
+2004	october	http://datos.imss.gob.mx/node/387/download	http://datos.imss.gob.mx/node/	396	/download	http://datos.imss.gob.mx/node/396/download	http://datos.imss.gob.mx/node/396/download
+2004	november	http://datos.imss.gob.mx/node/387/download	http://datos.imss.gob.mx/node/	397	/download	http://datos.imss.gob.mx/node/397/download	http://datos.imss.gob.mx/node/397/download
+2004	december	http://datos.imss.gob.mx/node/387/download	http://datos.imss.gob.mx/node/	398	/download	http://datos.imss.gob.mx/node/398/download	http://datos.imss.gob.mx/node/398/download
+2005	january	http://datos.imss.gob.mx/node/333/download	http://datos.imss.gob.mx/node/	333	/download	http://datos.imss.gob.mx/node/333/download	http://datos.imss.gob.mx/node/333/download
+2005	february	http://datos.imss.gob.mx/node/333/download	http://datos.imss.gob.mx/node/	334	/download	http://datos.imss.gob.mx/node/334/download	http://datos.imss.gob.mx/node/334/download
+2005	march	http://datos.imss.gob.mx/node/333/download	http://datos.imss.gob.mx/node/	335	/download	http://datos.imss.gob.mx/node/335/download	http://datos.imss.gob.mx/node/335/download
+2005	april	http://datos.imss.gob.mx/node/333/download	http://datos.imss.gob.mx/node/	336	/download	http://datos.imss.gob.mx/node/336/download	http://datos.imss.gob.mx/node/336/download
+2005	may	http://datos.imss.gob.mx/node/333/download	http://datos.imss.gob.mx/node/	337	/download	http://datos.imss.gob.mx/node/337/download	http://datos.imss.gob.mx/node/337/download
+2005	june	http://datos.imss.gob.mx/node/333/download	http://datos.imss.gob.mx/node/	338	/download	http://datos.imss.gob.mx/node/338/download	http://datos.imss.gob.mx/node/338/download
+2005	july	http://datos.imss.gob.mx/node/333/download	http://datos.imss.gob.mx/node/	339	/download	http://datos.imss.gob.mx/node/339/download	http://datos.imss.gob.mx/node/339/download
+2005	august	http://datos.imss.gob.mx/node/333/download	http://datos.imss.gob.mx/node/	340	/download	http://datos.imss.gob.mx/node/340/download	http://datos.imss.gob.mx/node/340/download
+2005	september	http://datos.imss.gob.mx/node/333/download	http://datos.imss.gob.mx/node/	341	/download	http://datos.imss.gob.mx/node/341/download	http://datos.imss.gob.mx/node/341/download
+2005	october	http://datos.imss.gob.mx/node/333/download	http://datos.imss.gob.mx/node/	342	/download	http://datos.imss.gob.mx/node/342/download	http://datos.imss.gob.mx/node/342/download
+2005	november	http://datos.imss.gob.mx/node/333/download	http://datos.imss.gob.mx/node/	343	/download	http://datos.imss.gob.mx/node/343/download	http://datos.imss.gob.mx/node/343/download
+2005	december	http://datos.imss.gob.mx/node/333/download	http://datos.imss.gob.mx/node/	344	/download	http://datos.imss.gob.mx/node/344/download	http://datos.imss.gob.mx/node/344/download
+2006	january	http://datos.imss.gob.mx/node/294/download	http://datos.imss.gob.mx/node/	294	/download	http://datos.imss.gob.mx/node/294/download	http://datos.imss.gob.mx/node/294/download
+2006	february	http://datos.imss.gob.mx/node/294/download	http://datos.imss.gob.mx/node/	295	/download	http://datos.imss.gob.mx/node/295/download	http://datos.imss.gob.mx/node/295/download
+2006	march	http://datos.imss.gob.mx/node/294/download	http://datos.imss.gob.mx/node/	296	/download	http://datos.imss.gob.mx/node/296/download	http://datos.imss.gob.mx/node/296/download
+2006	april	http://datos.imss.gob.mx/node/294/download	http://datos.imss.gob.mx/node/	297	/download	http://datos.imss.gob.mx/node/297/download	http://datos.imss.gob.mx/node/297/download
+2006	may	http://datos.imss.gob.mx/node/294/download	http://datos.imss.gob.mx/node/	298	/download	http://datos.imss.gob.mx/node/298/download	http://datos.imss.gob.mx/node/298/download
+2006	june	http://datos.imss.gob.mx/node/294/download	http://datos.imss.gob.mx/node/	299	/download	http://datos.imss.gob.mx/node/299/download	http://datos.imss.gob.mx/node/299/download
+2006	july	http://datos.imss.gob.mx/node/294/download	http://datos.imss.gob.mx/node/	300	/download	http://datos.imss.gob.mx/node/300/download	http://datos.imss.gob.mx/node/300/download
+2006	august	http://datos.imss.gob.mx/node/294/download	http://datos.imss.gob.mx/node/	301	/download	http://datos.imss.gob.mx/node/301/download	http://datos.imss.gob.mx/node/301/download
+2006	september	http://datos.imss.gob.mx/node/294/download	http://datos.imss.gob.mx/node/	302	/download	http://datos.imss.gob.mx/node/302/download	http://datos.imss.gob.mx/node/302/download
+2006	october	http://datos.imss.gob.mx/node/294/download	http://datos.imss.gob.mx/node/	303	/download	http://datos.imss.gob.mx/node/303/download	http://datos.imss.gob.mx/node/303/download
+2006	november	http://datos.imss.gob.mx/node/294/download	http://datos.imss.gob.mx/node/	304	/download	http://datos.imss.gob.mx/node/304/download	http://datos.imss.gob.mx/node/304/download
+2006	december	http://datos.imss.gob.mx/node/294/download	http://datos.imss.gob.mx/node/	305	/download	http://datos.imss.gob.mx/node/305/download	http://datos.imss.gob.mx/node/305/download
+2007	january	http://datos.imss.gob.mx/node/281/download	http://datos.imss.gob.mx/node/	281	/download	http://datos.imss.gob.mx/node/281/download	http://datos.imss.gob.mx/node/281/download
+2007	february	http://datos.imss.gob.mx/node/281/download	http://datos.imss.gob.mx/node/	282	/download	http://datos.imss.gob.mx/node/282/download	http://datos.imss.gob.mx/node/282/download
+2007	march	http://datos.imss.gob.mx/node/281/download	http://datos.imss.gob.mx/node/	283	/download	http://datos.imss.gob.mx/node/283/download	http://datos.imss.gob.mx/node/283/download
+2007	april	http://datos.imss.gob.mx/node/281/download	http://datos.imss.gob.mx/node/	284	/download	http://datos.imss.gob.mx/node/284/download	http://datos.imss.gob.mx/node/284/download
+2007	may	http://datos.imss.gob.mx/node/281/download	http://datos.imss.gob.mx/node/	285	/download	http://datos.imss.gob.mx/node/285/download	http://datos.imss.gob.mx/node/285/download
+2007	june	http://datos.imss.gob.mx/node/281/download	http://datos.imss.gob.mx/node/	286	/download	http://datos.imss.gob.mx/node/286/download	http://datos.imss.gob.mx/node/286/download
+2007	july	http://datos.imss.gob.mx/node/281/download	http://datos.imss.gob.mx/node/	287	/download	http://datos.imss.gob.mx/node/287/download	http://datos.imss.gob.mx/node/287/download
+2007	august	http://datos.imss.gob.mx/node/281/download	http://datos.imss.gob.mx/node/	288	/download	http://datos.imss.gob.mx/node/288/download	http://datos.imss.gob.mx/node/288/download
+2007	september	http://datos.imss.gob.mx/node/281/download	http://datos.imss.gob.mx/node/	289	/download	http://datos.imss.gob.mx/node/289/download	http://datos.imss.gob.mx/node/289/download
+2007	october	http://datos.imss.gob.mx/node/281/download	http://datos.imss.gob.mx/node/	290	/download	http://datos.imss.gob.mx/node/290/download	http://datos.imss.gob.mx/node/290/download
+2007	november	http://datos.imss.gob.mx/node/281/download	http://datos.imss.gob.mx/node/	291	/download	http://datos.imss.gob.mx/node/291/download	http://datos.imss.gob.mx/node/291/download
+2007	december	http://datos.imss.gob.mx/node/281/download	http://datos.imss.gob.mx/node/	292	/download	http://datos.imss.gob.mx/node/292/download	http://datos.imss.gob.mx/node/292/download
+2008	january	http://datos.imss.gob.mx/node/262/download	http://datos.imss.gob.mx/node/	262	/download	http://datos.imss.gob.mx/node/262/download	http://datos.imss.gob.mx/node/262/download
+2008	february	http://datos.imss.gob.mx/node/262/download	http://datos.imss.gob.mx/node/	264	/download	http://datos.imss.gob.mx/node/264/download	http://datos.imss.gob.mx/node/264/download
+2008	march	http://datos.imss.gob.mx/node/262/download	http://datos.imss.gob.mx/node/	265	/download	http://datos.imss.gob.mx/node/265/download	http://datos.imss.gob.mx/node/265/download
+2008	april	http://datos.imss.gob.mx/node/262/download	http://datos.imss.gob.mx/node/	266	/download	http://datos.imss.gob.mx/node/266/download	http://datos.imss.gob.mx/node/266/download
+2008	may	http://datos.imss.gob.mx/node/262/download	http://datos.imss.gob.mx/node/	267	/download	http://datos.imss.gob.mx/node/267/download	http://datos.imss.gob.mx/node/267/download
+2008	june	http://datos.imss.gob.mx/node/262/download	http://datos.imss.gob.mx/node/	268	/download	http://datos.imss.gob.mx/node/268/download	http://datos.imss.gob.mx/node/268/download
+2008	july	http://datos.imss.gob.mx/node/262/download	http://datos.imss.gob.mx/node/	269	/download	http://datos.imss.gob.mx/node/269/download	http://datos.imss.gob.mx/node/269/download
+2008	august	http://datos.imss.gob.mx/node/262/download	http://datos.imss.gob.mx/node/	270	/download	http://datos.imss.gob.mx/node/270/download	http://datos.imss.gob.mx/node/270/download
+2008	september	http://datos.imss.gob.mx/node/262/download	http://datos.imss.gob.mx/node/	271	/download	http://datos.imss.gob.mx/node/271/download	http://datos.imss.gob.mx/node/271/download
+2008	october	http://datos.imss.gob.mx/node/262/download	http://datos.imss.gob.mx/node/	272	/download	http://datos.imss.gob.mx/node/272/download	http://datos.imss.gob.mx/node/272/download
+2008	november	http://datos.imss.gob.mx/node/262/download	http://datos.imss.gob.mx/node/	273	/download	http://datos.imss.gob.mx/node/273/download	http://datos.imss.gob.mx/node/273/download
+2008	december	http://datos.imss.gob.mx/node/262/download	http://datos.imss.gob.mx/node/	277	/download	http://datos.imss.gob.mx/node/277/download	http://datos.imss.gob.mx/node/277/download
+2009	january	http://datos.imss.gob.mx/node/158/download	http://datos.imss.gob.mx/node/	158	/download	http://datos.imss.gob.mx/node/158/download	http://datos.imss.gob.mx/node/158/download
+2009	february	http://datos.imss.gob.mx/node/158/download	http://datos.imss.gob.mx/node/	160	/download	http://datos.imss.gob.mx/node/160/download	http://datos.imss.gob.mx/node/160/download
+2009	march	http://datos.imss.gob.mx/node/158/download	http://datos.imss.gob.mx/node/	161	/download	http://datos.imss.gob.mx/node/161/download	http://datos.imss.gob.mx/node/161/download
+2009	april	http://datos.imss.gob.mx/node/158/download	http://datos.imss.gob.mx/node/	168	/download	http://datos.imss.gob.mx/node/168/download	http://datos.imss.gob.mx/node/168/download
+2009	may	http://datos.imss.gob.mx/node/158/download	http://datos.imss.gob.mx/node/	180	/download	http://datos.imss.gob.mx/node/180/download	http://datos.imss.gob.mx/node/180/download
+2009	june	http://datos.imss.gob.mx/node/158/download	http://datos.imss.gob.mx/node/	182	/download	http://datos.imss.gob.mx/node/182/download	http://datos.imss.gob.mx/node/182/download
+2009	july	http://datos.imss.gob.mx/node/158/download	http://datos.imss.gob.mx/node/	183	/download	http://datos.imss.gob.mx/node/183/download	http://datos.imss.gob.mx/node/183/download
+2009	august	http://datos.imss.gob.mx/node/158/download	http://datos.imss.gob.mx/node/	184	/download	http://datos.imss.gob.mx/node/184/download	http://datos.imss.gob.mx/node/184/download
+2009	september	http://datos.imss.gob.mx/node/158/download	http://datos.imss.gob.mx/node/	185	/download	http://datos.imss.gob.mx/node/185/download	http://datos.imss.gob.mx/node/185/download
+2009	october	http://datos.imss.gob.mx/node/158/download	http://datos.imss.gob.mx/node/	186	/download	http://datos.imss.gob.mx/node/186/download	http://datos.imss.gob.mx/node/186/download
+2009	november	http://datos.imss.gob.mx/node/158/download	http://datos.imss.gob.mx/node/	187	/download	http://datos.imss.gob.mx/node/187/download	http://datos.imss.gob.mx/node/187/download
+2009	december	http://datos.imss.gob.mx/node/158/download	http://datos.imss.gob.mx/node/	188	/download	http://datos.imss.gob.mx/node/188/download	http://datos.imss.gob.mx/node/188/download
+2010	january	http://datos.imss.gob.mx/node/169/download	http://datos.imss.gob.mx/node/	169	/download	http://datos.imss.gob.mx/node/169/download	http://datos.imss.gob.mx/node/169/download
+2010	february	http://datos.imss.gob.mx/node/169/download	http://datos.imss.gob.mx/node/	170	/download	http://datos.imss.gob.mx/node/170/download	http://datos.imss.gob.mx/node/170/download
+2010	march	http://datos.imss.gob.mx/node/169/download	http://datos.imss.gob.mx/node/	171	/download	http://datos.imss.gob.mx/node/171/download	http://datos.imss.gob.mx/node/171/download
+2010	april	http://datos.imss.gob.mx/node/169/download	http://datos.imss.gob.mx/node/	172	/download	http://datos.imss.gob.mx/node/172/download	http://datos.imss.gob.mx/node/172/download
+2010	may	http://datos.imss.gob.mx/node/169/download	http://datos.imss.gob.mx/node/	173	/download	http://datos.imss.gob.mx/node/173/download	http://datos.imss.gob.mx/node/173/download
+2010	june	http://datos.imss.gob.mx/node/169/download	http://datos.imss.gob.mx/node/	174	/download	http://datos.imss.gob.mx/node/174/download	http://datos.imss.gob.mx/node/174/download
+2010	july	http://datos.imss.gob.mx/node/169/download	http://datos.imss.gob.mx/node/	175	/download	http://datos.imss.gob.mx/node/175/download	http://datos.imss.gob.mx/node/175/download
+2010	august	http://datos.imss.gob.mx/node/169/download	http://datos.imss.gob.mx/node/	176	/download	http://datos.imss.gob.mx/node/176/download	http://datos.imss.gob.mx/node/176/download
+2010	september	http://datos.imss.gob.mx/node/169/download	http://datos.imss.gob.mx/node/	177	/download	http://datos.imss.gob.mx/node/177/download	http://datos.imss.gob.mx/node/177/download
+2010	october	http://datos.imss.gob.mx/node/169/download	http://datos.imss.gob.mx/node/	178	/download	http://datos.imss.gob.mx/node/178/download	http://datos.imss.gob.mx/node/178/download
+2010	november	http://datos.imss.gob.mx/node/169/download	http://datos.imss.gob.mx/node/	179	/download	http://datos.imss.gob.mx/node/179/download	http://datos.imss.gob.mx/node/179/download
+2010	december	http://datos.imss.gob.mx/node/169/download	http://datos.imss.gob.mx/node/	181	/download	http://datos.imss.gob.mx/node/181/download	http://datos.imss.gob.mx/node/181/download
+2011	january	http://datos.imss.gob.mx/node/159/download	http://datos.imss.gob.mx/node/	159	/download	http://datos.imss.gob.mx/node/159/download	http://datos.imss.gob.mx/node/159/download
+2011	february	http://datos.imss.gob.mx/node/159/download	http://datos.imss.gob.mx/node/	156	/download	http://datos.imss.gob.mx/node/156/download	http://datos.imss.gob.mx/node/156/download
+2011	march	http://datos.imss.gob.mx/node/159/download	http://datos.imss.gob.mx/node/	155	/download	http://datos.imss.gob.mx/node/155/download	http://datos.imss.gob.mx/node/155/download
+2011	april	http://datos.imss.gob.mx/node/159/download	http://datos.imss.gob.mx/node/	154	/download	http://datos.imss.gob.mx/node/154/download	http://datos.imss.gob.mx/node/154/download
+2011	may	http://datos.imss.gob.mx/node/159/download	http://datos.imss.gob.mx/node/	153	/download	http://datos.imss.gob.mx/node/153/download	http://datos.imss.gob.mx/node/153/download
+2011	june	http://datos.imss.gob.mx/node/159/download	http://datos.imss.gob.mx/node/	152	/download	http://datos.imss.gob.mx/node/152/download	http://datos.imss.gob.mx/node/152/download
+2011	july	http://datos.imss.gob.mx/node/159/download	http://datos.imss.gob.mx/node/	151	/download	http://datos.imss.gob.mx/node/151/download	http://datos.imss.gob.mx/node/151/download
+2011	august	http://datos.imss.gob.mx/node/159/download	http://datos.imss.gob.mx/node/	150	/download	http://datos.imss.gob.mx/node/150/download	http://datos.imss.gob.mx/node/150/download
+2011	september	http://datos.imss.gob.mx/node/159/download	http://datos.imss.gob.mx/node/	149	/download	http://datos.imss.gob.mx/node/149/download	http://datos.imss.gob.mx/node/149/download
+2011	october	http://datos.imss.gob.mx/node/159/download	http://datos.imss.gob.mx/node/	148	/download	http://datos.imss.gob.mx/node/148/download	http://datos.imss.gob.mx/node/148/download
+2011	november	http://datos.imss.gob.mx/node/159/download	http://datos.imss.gob.mx/node/	147	/download	http://datos.imss.gob.mx/node/147/download	http://datos.imss.gob.mx/node/147/download
+2011	december	http://datos.imss.gob.mx/node/159/download	http://datos.imss.gob.mx/node/	146	/download	http://datos.imss.gob.mx/node/146/download	http://datos.imss.gob.mx/node/146/download
+2012	january	http://datos.imss.gob.mx/node/143/download	http://datos.imss.gob.mx/node/	143	/download	http://datos.imss.gob.mx/node/143/download	http://datos.imss.gob.mx/node/143/download
+2012	february	http://datos.imss.gob.mx/node/143/download	http://datos.imss.gob.mx/node/	142	/download	http://datos.imss.gob.mx/node/142/download	http://datos.imss.gob.mx/node/142/download
+2012	march	http://datos.imss.gob.mx/node/143/download	http://datos.imss.gob.mx/node/	141	/download	http://datos.imss.gob.mx/node/141/download	http://datos.imss.gob.mx/node/141/download
+2012	april	http://datos.imss.gob.mx/node/143/download	http://datos.imss.gob.mx/node/	140	/download	http://datos.imss.gob.mx/node/140/download	http://datos.imss.gob.mx/node/140/download
+2012	may	http://datos.imss.gob.mx/node/143/download	http://datos.imss.gob.mx/node/	139	/download	http://datos.imss.gob.mx/node/139/download	http://datos.imss.gob.mx/node/139/download
+2012	june	http://datos.imss.gob.mx/node/143/download	http://datos.imss.gob.mx/node/	138	/download	http://datos.imss.gob.mx/node/138/download	http://datos.imss.gob.mx/node/138/download
+2012	july	http://datos.imss.gob.mx/node/143/download	http://datos.imss.gob.mx/node/	137	/download	http://datos.imss.gob.mx/node/137/download	http://datos.imss.gob.mx/node/137/download
+2012	august	http://datos.imss.gob.mx/node/143/download	http://datos.imss.gob.mx/node/	136	/download	http://datos.imss.gob.mx/node/136/download	http://datos.imss.gob.mx/node/136/download
+2012	september	http://datos.imss.gob.mx/node/143/download	http://datos.imss.gob.mx/node/	135	/download	http://datos.imss.gob.mx/node/135/download	http://datos.imss.gob.mx/node/135/download
+2012	october	http://datos.imss.gob.mx/node/143/download	http://datos.imss.gob.mx/node/	134	/download	http://datos.imss.gob.mx/node/134/download	http://datos.imss.gob.mx/node/134/download
+2012	november	http://datos.imss.gob.mx/node/143/download	http://datos.imss.gob.mx/node/	133	/download	http://datos.imss.gob.mx/node/133/download	http://datos.imss.gob.mx/node/133/download
+2012	december	http://datos.imss.gob.mx/node/143/download	http://datos.imss.gob.mx/node/	84	/download	http://datos.imss.gob.mx/node/84/download	http://datos.imss.gob.mx/node/84/download
+2013	january	http://datos.imss.gob.mx/node/20/download	http://datos.imss.gob.mx/node/	20	/download	http://datos.imss.gob.mx/node/20/download	http://datos.imss.gob.mx/node/20/download
+2013	february	http://datos.imss.gob.mx/node/20/download	http://datos.imss.gob.mx/node/	23	/download	http://datos.imss.gob.mx/node/23/download	http://datos.imss.gob.mx/node/23/download
+2013	march	http://datos.imss.gob.mx/node/20/download	http://datos.imss.gob.mx/node/	24	/download	http://datos.imss.gob.mx/node/24/download	http://datos.imss.gob.mx/node/24/download
+2013	april	http://datos.imss.gob.mx/node/20/download	http://datos.imss.gob.mx/node/	55	/download	http://datos.imss.gob.mx/node/55/download	http://datos.imss.gob.mx/node/55/download
+2013	may	http://datos.imss.gob.mx/node/20/download	http://datos.imss.gob.mx/node/	57	/download	http://datos.imss.gob.mx/node/57/download	http://datos.imss.gob.mx/node/57/download
+2013	june	http://datos.imss.gob.mx/node/20/download	http://datos.imss.gob.mx/node/	58	/download	http://datos.imss.gob.mx/node/58/download	http://datos.imss.gob.mx/node/58/download
+2013	july	http://datos.imss.gob.mx/node/20/download	http://datos.imss.gob.mx/node/	59	/download	http://datos.imss.gob.mx/node/59/download	http://datos.imss.gob.mx/node/59/download
+2013	august	http://datos.imss.gob.mx/node/20/download	http://datos.imss.gob.mx/node/	60	/download	http://datos.imss.gob.mx/node/60/download	http://datos.imss.gob.mx/node/60/download
+2013	september	http://datos.imss.gob.mx/node/20/download	http://datos.imss.gob.mx/node/	63	/download	http://datos.imss.gob.mx/node/63/download	http://datos.imss.gob.mx/node/63/download
+2013	october	http://datos.imss.gob.mx/node/20/download	http://datos.imss.gob.mx/node/	64	/download	http://datos.imss.gob.mx/node/64/download	http://datos.imss.gob.mx/node/64/download
+2013	november	http://datos.imss.gob.mx/node/20/download	http://datos.imss.gob.mx/node/	65	/download	http://datos.imss.gob.mx/node/65/download	http://datos.imss.gob.mx/node/65/download
+2013	december	http://datos.imss.gob.mx/node/20/download	http://datos.imss.gob.mx/node/	66	/download	http://datos.imss.gob.mx/node/66/download	http://datos.imss.gob.mx/node/66/download
+2014	january	http://datos.imss.gob.mx/node/72/download	http://datos.imss.gob.mx/node/	72	/download	http://datos.imss.gob.mx/node/72/download	http://datos.imss.gob.mx/node/72/download
+2014	february	http://datos.imss.gob.mx/node/72/download	http://datos.imss.gob.mx/node/	73	/download	http://datos.imss.gob.mx/node/73/download	http://datos.imss.gob.mx/node/73/download
+2014	march	http://datos.imss.gob.mx/node/72/download	http://datos.imss.gob.mx/node/	74	/download	http://datos.imss.gob.mx/node/74/download	http://datos.imss.gob.mx/node/74/download
+2014	april	http://datos.imss.gob.mx/node/72/download	http://datos.imss.gob.mx/node/	76	/download	http://datos.imss.gob.mx/node/76/download	http://datos.imss.gob.mx/node/76/download
+2014	may	http://datos.imss.gob.mx/node/72/download	http://datos.imss.gob.mx/node/	75	/download	http://datos.imss.gob.mx/node/75/download	http://datos.imss.gob.mx/node/75/download
+2014	june	http://datos.imss.gob.mx/node/72/download	http://datos.imss.gob.mx/node/	77	/download	http://datos.imss.gob.mx/node/77/download	http://datos.imss.gob.mx/node/77/download
+2014	july	http://datos.imss.gob.mx/node/72/download	http://datos.imss.gob.mx/node/	78	/download	http://datos.imss.gob.mx/node/78/download	http://datos.imss.gob.mx/node/78/download
+2014	august	http://datos.imss.gob.mx/node/72/download	http://datos.imss.gob.mx/node/	79	/download	http://datos.imss.gob.mx/node/79/download	http://datos.imss.gob.mx/node/79/download
+2014	september	http://datos.imss.gob.mx/node/72/download	http://datos.imss.gob.mx/node/	81	/download	http://datos.imss.gob.mx/node/81/download	http://datos.imss.gob.mx/node/81/download
+2014	october	http://datos.imss.gob.mx/node/72/download	http://datos.imss.gob.mx/node/	194	/download	http://datos.imss.gob.mx/node/194/download	http://datos.imss.gob.mx/node/194/download
+2014	november	http://datos.imss.gob.mx/node/72/download	http://datos.imss.gob.mx/node/	195	/download	http://datos.imss.gob.mx/node/195/download	http://datos.imss.gob.mx/node/195/download
+2014	december	http://datos.imss.gob.mx/node/72/download	http://datos.imss.gob.mx/node/	196	/download	http://datos.imss.gob.mx/node/196/download	http://datos.imss.gob.mx/node/196/download
+2015	january	http://datos.imss.gob.mx/node/190/download	http://datos.imss.gob.mx/node/	190	/download	http://datos.imss.gob.mx/node/190/download	http://datos.imss.gob.mx/node/190/download
+2015	february	http://datos.imss.gob.mx/node/190/download	http://datos.imss.gob.mx/node/	191	/download	http://datos.imss.gob.mx/node/191/download	http://datos.imss.gob.mx/node/191/download
+2015	march	http://datos.imss.gob.mx/node/190/download	http://datos.imss.gob.mx/node/	192	/download	http://datos.imss.gob.mx/node/192/download	http://datos.imss.gob.mx/node/192/download
+2015	april	http://datos.imss.gob.mx/node/190/download	http://datos.imss.gob.mx/node/	193	/download	http://datos.imss.gob.mx/node/193/download	http://datos.imss.gob.mx/node/193/download
+2015	may	http://datos.imss.gob.mx/node/190/download	http://datos.imss.gob.mx/node/	276	/download	http://datos.imss.gob.mx/node/276/download	http://datos.imss.gob.mx/node/276/download
+2015	june	http://datos.imss.gob.mx/node/190/download	http://datos.imss.gob.mx/node/	279	/download	http://datos.imss.gob.mx/node/279/download	http://datos.imss.gob.mx/node/279/download
+2015	july	http://datos.imss.gob.mx/node/190/download	http://datos.imss.gob.mx/node/	306	/download	http://datos.imss.gob.mx/node/306/download	http://datos.imss.gob.mx/node/306/download
+2015	august	http://datos.imss.gob.mx/node/190/download	http://datos.imss.gob.mx/node/	308	/download	http://datos.imss.gob.mx/node/308/download	http://datos.imss.gob.mx/node/308/download
+2015	september	http://datos.imss.gob.mx/node/190/download	http://datos.imss.gob.mx/node/	310	/download	http://datos.imss.gob.mx/node/310/download	http://datos.imss.gob.mx/node/310/download
+2015	october	http://datos.imss.gob.mx/node/190/download	http://datos.imss.gob.mx/node/	319	/download	http://datos.imss.gob.mx/node/319/download	http://datos.imss.gob.mx/node/319/download
+2015	november	http://datos.imss.gob.mx/node/190/download	http://datos.imss.gob.mx/node/	321	/download	http://datos.imss.gob.mx/node/321/download	http://datos.imss.gob.mx/node/321/download
+2015	december	http://datos.imss.gob.mx/node/190/download	http://datos.imss.gob.mx/node/	325	/download	http://datos.imss.gob.mx/node/325/download	http://datos.imss.gob.mx/node/325/download
+2016	january	http://datos.imss.gob.mx/node/327/download	http://datos.imss.gob.mx/node/	327	/download	http://datos.imss.gob.mx/node/327/download	http://datos.imss.gob.mx/node/327/download
+2016	february	http://datos.imss.gob.mx/node/327/download	http://datos.imss.gob.mx/node/	371	/download	http://datos.imss.gob.mx/node/371/download	http://datos.imss.gob.mx/node/371/download
+2016	march	http://datos.imss.gob.mx/node/327/download	http://datos.imss.gob.mx/node/	377	/download	http://datos.imss.gob.mx/node/377/download	http://datos.imss.gob.mx/node/377/download
+2016	april	http://datos.imss.gob.mx/node/327/download	http://datos.imss.gob.mx/node/	400	/download	http://datos.imss.gob.mx/node/400/download	http://datos.imss.gob.mx/node/400/download
+2016	may	http://datos.imss.gob.mx/node/327/download	http://datos.imss.gob.mx/node/	401	/download	http://datos.imss.gob.mx/node/401/download	http://datos.imss.gob.mx/node/401/download
+2016	june	http://datos.imss.gob.mx/node/327/download	http://datos.imss.gob.mx/node/	405	/download	http://datos.imss.gob.mx/node/405/download	http://datos.imss.gob.mx/node/405/download
+2016	july	http://datos.imss.gob.mx/node/327/download	http://datos.imss.gob.mx/node/	502	/download	http://datos.imss.gob.mx/node/502/download	http://datos.imss.gob.mx/node/502/download
+2016	august	http://datos.imss.gob.mx/node/327/download	http://datos.imss.gob.mx/node/	513	/download	http://datos.imss.gob.mx/node/513/download	http://datos.imss.gob.mx/node/513/download
+2016	september	http://datos.imss.gob.mx/node/327/download	http://datos.imss.gob.mx/node/	526	/download	http://datos.imss.gob.mx/node/526/download	http://datos.imss.gob.mx/node/526/download
+2016	october	http://datos.imss.gob.mx/node/327/download	http://datos.imss.gob.mx/node/	537	/download	http://datos.imss.gob.mx/node/537/download	http://datos.imss.gob.mx/node/537/download
+2016	november	http://datos.imss.gob.mx/node/327/download	http://datos.imss.gob.mx/node/	541	/download	http://datos.imss.gob.mx/node/541/download	http://datos.imss.gob.mx/node/541/download
+2016	december	http://datos.imss.gob.mx/node/327/download	http://datos.imss.gob.mx/node/	543	/download	http://datos.imss.gob.mx/node/543/download	http://datos.imss.gob.mx/node/543/download
+2017	january	http://datos.imss.gob.mx/node/548/download	http://datos.imss.gob.mx/node/	548	/download	http://datos.imss.gob.mx/node/548/download	http://datos.imss.gob.mx/node/548/download
+2017	february	http://datos.imss.gob.mx/node/548/download	http://datos.imss.gob.mx/node/	577	/download	http://datos.imss.gob.mx/node/577/download	http://datos.imss.gob.mx/node/577/download
+2017	march	http://datos.imss.gob.mx/node/548/download	http://datos.imss.gob.mx/node/	580	/download	http://datos.imss.gob.mx/node/580/download	http://datos.imss.gob.mx/node/580/download
+2017	april	http://datos.imss.gob.mx/node/548/download	http://datos.imss.gob.mx/node/	591	/download	http://datos.imss.gob.mx/node/591/download	http://datos.imss.gob.mx/node/591/download
+2017	may	http://datos.imss.gob.mx/node/548/download	http://datos.imss.gob.mx/node/	593	/download	http://datos.imss.gob.mx/node/593/download	http://datos.imss.gob.mx/node/593/download
+2017	june	http://datos.imss.gob.mx/node/548/download	http://datos.imss.gob.mx/node/	607	/download	http://datos.imss.gob.mx/node/607/download	http://datos.imss.gob.mx/node/607/download
+2017	july	http://datos.imss.gob.mx/node/548/download	http://datos.imss.gob.mx/node/	621	/download	http://datos.imss.gob.mx/node/621/download	http://datos.imss.gob.mx/node/621/download
+2017	august	http://datos.imss.gob.mx/node/548/download	http://datos.imss.gob.mx/node/	629	/download	http://datos.imss.gob.mx/node/629/download	http://datos.imss.gob.mx/node/629/download
+2017	september	http://datos.imss.gob.mx/node/548/download	http://datos.imss.gob.mx/node/	634	/download	http://datos.imss.gob.mx/node/634/download	http://datos.imss.gob.mx/node/634/download
+2017	october	http://datos.imss.gob.mx/node/548/download	http://datos.imss.gob.mx/node/	672	/download	http://datos.imss.gob.mx/node/672/download	http://datos.imss.gob.mx/node/672/download
+2017	november	http://datos.imss.gob.mx/node/548/download	http://datos.imss.gob.mx/node/	701	/download	http://datos.imss.gob.mx/node/701/download	http://datos.imss.gob.mx/node/701/download
+2017	december	http://datos.imss.gob.mx/node/548/download	http://datos.imss.gob.mx/node/	702	/download	http://datos.imss.gob.mx/node/702/download	http://datos.imss.gob.mx/node/702/download
+2018	january	http://datos.imss.gob.mx/node/706/download	http://datos.imss.gob.mx/node/	706	/download	http://datos.imss.gob.mx/node/706/download	http://datos.imss.gob.mx/node/706/download
+2018	february	http://datos.imss.gob.mx/node/706/download	http://datos.imss.gob.mx/node/	714	/download	http://datos.imss.gob.mx/node/714/download	http://datos.imss.gob.mx/node/714/download
+2018	march	http://datos.imss.gob.mx/node/706/download	http://datos.imss.gob.mx/node/	716	/download	http://datos.imss.gob.mx/node/716/download	http://datos.imss.gob.mx/node/716/download
+2018	april	http://datos.imss.gob.mx/node/706/download	http://datos.imss.gob.mx/node/	718	/download	http://datos.imss.gob.mx/node/718/download	http://datos.imss.gob.mx/node/718/download
+2018	may	http://datos.imss.gob.mx/node/706/download	http://datos.imss.gob.mx/node/	761	/download	http://datos.imss.gob.mx/node/761/download	http://datos.imss.gob.mx/node/761/download
+2018	june	http://datos.imss.gob.mx/node/706/download	http://datos.imss.gob.mx/node/	763	/download	http://datos.imss.gob.mx/node/763/download	http://datos.imss.gob.mx/node/763/download
+2018	july	http://datos.imss.gob.mx/node/706/download	http://datos.imss.gob.mx/node/	785	/download	http://datos.imss.gob.mx/node/785/download	http://datos.imss.gob.mx/node/785/download
+2018	august	http://datos.imss.gob.mx/node/706/download	http://datos.imss.gob.mx/node/	787	/download	http://datos.imss.gob.mx/node/787/download	http://datos.imss.gob.mx/node/787/download
+2018	september	http://datos.imss.gob.mx/node/706/download	http://datos.imss.gob.mx/node/	795	/download	http://datos.imss.gob.mx/node/795/download	http://datos.imss.gob.mx/node/795/download
+2018	october	http://datos.imss.gob.mx/node/706/download	http://datos.imss.gob.mx/node/	833	/download	http://datos.imss.gob.mx/node/833/download	http://datos.imss.gob.mx/node/833/download
+2018	november	http://datos.imss.gob.mx/node/706/download	http://datos.imss.gob.mx/node/	841	/download	http://datos.imss.gob.mx/node/841/download	http://datos.imss.gob.mx/node/841/download
+2018	december	http://datos.imss.gob.mx/node/706/download	http://datos.imss.gob.mx/node/	843	/download	http://datos.imss.gob.mx/node/843/download	http://datos.imss.gob.mx/node/843/download
+2019	january	http://datos.imss.gob.mx/node/858/download	http://datos.imss.gob.mx/node/	858	/download	http://datos.imss.gob.mx/node/858/download	http://datos.imss.gob.mx/node/858/download
+2019	february	http://datos.imss.gob.mx/node/858/download	http://datos.imss.gob.mx/node/	966	/download	http://datos.imss.gob.mx/node/966/download	http://datos.imss.gob.mx/node/966/download
+2019	march	http://datos.imss.gob.mx/node/858/download	http://datos.imss.gob.mx/node/	974	/download	http://datos.imss.gob.mx/node/974/download	http://datos.imss.gob.mx/node/974/download
+2019	april	http://datos.imss.gob.mx/node/858/download	http://datos.imss.gob.mx/node/	976	/download	http://datos.imss.gob.mx/node/976/download	http://datos.imss.gob.mx/node/976/download
+2019	may	http://datos.imss.gob.mx/node/858/download	http://datos.imss.gob.mx/node/	978	/download	http://datos.imss.gob.mx/node/978/download	http://datos.imss.gob.mx/node/978/download
+2019	june	http://datos.imss.gob.mx/node/858/download	http://datos.imss.gob.mx/node/	980	/download	http://datos.imss.gob.mx/node/980/download	http://datos.imss.gob.mx/node/980/download
+2019	july	http://datos.imss.gob.mx/node/858/download	http://datos.imss.gob.mx/node/	984	/download	http://datos.imss.gob.mx/node/984/download	http://datos.imss.gob.mx/node/984/download
+2019	august	http://datos.imss.gob.mx/node/858/download	http://datos.imss.gob.mx/node/	988	/download	http://datos.imss.gob.mx/node/988/download	http://datos.imss.gob.mx/node/988/download
+2019	september	http://datos.imss.gob.mx/node/858/download	http://datos.imss.gob.mx/node/	990	/download	http://datos.imss.gob.mx/node/990/download	http://datos.imss.gob.mx/node/990/download
+2019	october	http://datos.imss.gob.mx/node/858/download	http://datos.imss.gob.mx/node/	994	/download	http://datos.imss.gob.mx/node/994/download	http://datos.imss.gob.mx/node/994/download
+2019	november	http://datos.imss.gob.mx/node/858/download	http://datos.imss.gob.mx/node/	1002	/download	http://datos.imss.gob.mx/node/1002/download	http://datos.imss.gob.mx/node/1002/download
+2019	december	http://datos.imss.gob.mx/node/858/download	http://datos.imss.gob.mx/node/	1004	/download	http://datos.imss.gob.mx/node/1004/download	http://datos.imss.gob.mx/node/1004/download
+2020	january	http://datos.imss.gob.mx/node/1007/download	http://datos.imss.gob.mx/node/	1007	/download	http://datos.imss.gob.mx/node/1007/download	http://datos.imss.gob.mx/node/1007/download
+2020	february	http://datos.imss.gob.mx/node/1007/download	http://datos.imss.gob.mx/node/	1010	/download	http://datos.imss.gob.mx/node/1010/download	http://datos.imss.gob.mx/node/1010/download
+2020	march	http://datos.imss.gob.mx/node/1007/download	http://datos.imss.gob.mx/node/	1078	/download	http://datos.imss.gob.mx/node/1078/download	http://datos.imss.gob.mx/node/1078/download
+2020	april	http://datos.imss.gob.mx/node/1007/download	http://datos.imss.gob.mx/node/	1080	/download	http://datos.imss.gob.mx/node/1080/download	http://datos.imss.gob.mx/node/1080/download
+2020	may	http://datos.imss.gob.mx/node/1007/download	http://datos.imss.gob.mx/node/	1082	/download	http://datos.imss.gob.mx/node/1082/download	http://datos.imss.gob.mx/node/1082/download
+2020	june	http://datos.imss.gob.mx/node/1007/download	http://datos.imss.gob.mx/node/	1086	/download	http://datos.imss.gob.mx/node/1086/download	http://datos.imss.gob.mx/node/1086/download
+2020	july	http://datos.imss.gob.mx/node/1007/download	http://datos.imss.gob.mx/node/	1090	/download	http://datos.imss.gob.mx/node/1090/download	http://datos.imss.gob.mx/node/1090/download
+2020	august	http://datos.imss.gob.mx/node/1007/download	http://datos.imss.gob.mx/node/	1098	/download	http://datos.imss.gob.mx/node/1098/download	http://datos.imss.gob.mx/node/1098/download
+2020	september	http://datos.imss.gob.mx/node/1007/download	http://datos.imss.gob.mx/node/	1100	/download	http://datos.imss.gob.mx/node/1100/download	http://datos.imss.gob.mx/node/1100/download
+2020	october	http://datos.imss.gob.mx/node/1007/download	http://datos.imss.gob.mx/node/	1102	/download	http://datos.imss.gob.mx/node/1102/download	http://datos.imss.gob.mx/node/1102/download
+2020	november	http://datos.imss.gob.mx/node/1007/download	http://datos.imss.gob.mx/node/	1104	/download	http://datos.imss.gob.mx/node/1104/download	http://datos.imss.gob.mx/node/1104/download
+2020	december	http://datos.imss.gob.mx/node/1007/download	http://datos.imss.gob.mx/node/	1107	/download	http://datos.imss.gob.mx/node/1107/download	http://datos.imss.gob.mx/node/1107/download
+2021	january	http://datos.imss.gob.mx/node/1113/download	http://datos.imss.gob.mx/node/	1113	/download	http://datos.imss.gob.mx/node/1113/download	http://datos.imss.gob.mx/node/1113/download
+2021	february	http://datos.imss.gob.mx/node/1116/download	http://datos.imss.gob.mx/node/	1116	/download	http://datos.imss.gob.mx/node/1116/download	http://datos.imss.gob.mx/node/1116/download
+2021	march	http://datos.imss.gob.mx/node/1118/download	http://datos.imss.gob.mx/node/	1118	/download	http://datos.imss.gob.mx/node/1118/download	http://datos.imss.gob.mx/node/1118/download
+2021	april	http://datos.imss.gob.mx/node/1118/download	http://datos.imss.gob.mx/node/	1120	/download	http://datos.imss.gob.mx/node/1120/download	http://datos.imss.gob.mx/node/1120/download
+2021	may	http://datos.imss.gob.mx/node/1125/download	http://datos.imss.gob.mx/node/	1125	/download	http://datos.imss.gob.mx/node/1125/download	http://datos.imss.gob.mx/node/1125/download
