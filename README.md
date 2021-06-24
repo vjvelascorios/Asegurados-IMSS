@@ -1,6 +1,6 @@
 # Asegurados en el Instituto Mexicano del Seguro Social (1997-2021)
 
-Automatización para  la descarga de datos correspondientes a los [asegurados](http://datos.imss.gob.mx/dataset) en el IMSS de 1997 al (2020).
+Automatización para  la descarga de datos correspondientes a los [asegurados](http://datos.imss.gob.mx/dataset) en el IMSS de 1997 al (2021).
 
 El código se actualizará en función de la publicación de nuevos datos posteriores al 2021, sin embargo, como alternativa se pretende realizar un código intuitivo para que el usuario pueda realizar modificaciones y extensiones por su propia cuenta. Adicionalmente, se adjunta un pequeño ejemplo sobre el funcionamiento y descarga de los datos.
 
