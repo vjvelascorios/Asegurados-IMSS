@@ -1321,7 +1321,7 @@ beep(sound = 3)
     # # julio
     download.file(url= as.character(links_mensuales[7,3]) ,destfile=dir_completa_de_guardado[7,1]  , method = "libcurl")
     # # agosto
-    # download.file(url= as.character(links_mensuales[8,3]) ,destfile=dir_completa_de_guardado[8,1]  , method = "libcurl")
+    download.file(url= as.character(links_mensuales[8,3]) ,destfile=dir_completa_de_guardado[8,1]  , method = "libcurl")
     # # septiembre
     # download.file(url= as.character(links_mensuales[9,3]) ,destfile=dir_completa_de_guardado[9,1]  , method = "libcurl")
     # # octubre
