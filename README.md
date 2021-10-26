@@ -7,7 +7,9 @@ El código se actualizará en función de la publicación de nuevos datos poster
 Adicionalmente,  puedes consultar el presente documento en mi [sitio web](https://vjvelascorios.netlify.app/posts/descarga-de-asegurados-imss/) donde debido al resaltado del código es posible una mejor comprensión.
 ## Cambios y actualizaciones
 
-- 2021/08/12: Actualización julio 2021
+- 2021/10/26: Código para la verificación anual de los datos (ver subsección correspondiente).
+
+- 2021/10/26: Actualización septiembre 2021.
 
 - 2021/02/06: Código final al 2020 y ejemplo mínimo.
 
@@ -63,8 +65,49 @@ dir_completa_de_guardado<-as.data.frame(dir_completa_de_guardado)
     beep(sound = 3)
 ```
 
+## Verificación anual de las bases de datos
+Por la forma de descarga y no contar con una API, los archivos descargados pueden llegar a presentar inconsistencias o errores debido a: 
 
+- archivos corruptos (conexión inestable o falta de potencia en la computadora).
+- problemas de almacenamiento.
+- falta de memoria ram.
+- cambios en la dirección de descarga.
 
+Debido a lo anterior, se sugiere realizar la verificación anual de los archivos descargados, evaluando la sumatoria en el número de asegurados por mes.año
+
+A continuación se describe el funcionamiento básico del código y el resultado final de la verificación.
+
+### 1. Directorio de los archivos descargados por año.
+Se establece el directorio raíz de los archivos descargados y se leen los directorios anuales.
+
+![](Captures/1.PNG)
+
+### 2. Se asigna el año a verificar
+
+![](Captures/2.PNG)
+
+### 3. Se realiza la lectura de las bases de datos y se calcula el indicador mensual a verificar (el número total de asegurados).
+![](Captures/3.PNG)
+
+### 4. Se crea un dataset de validación  uniendo los datos mensuales anteriores y se compara con la fuente oficial por medio del cálculo de diferencias de datos.
+
+![](Captures/4.PNG)
+
+Una verificación anual correcta deberá dar como resultado las siguientes salidas, evidenciando que la diferencias de comparación son nulas.
+![](Captures/5.PNG)
+![](Captures/6.png)
+
+Los casos en los cuales es necesario cambiar un poco la codificación del archivo (crear el dataset de validación correcto) son aquellos años en los cuales no existen bases de datos de todos los meses en cuestión (1997, que va de agosto a diciembre) y donde no finaliza el año (2021, de enero a septiembre), por lo cual es necesario editar la linea 54 del código (creación del "validation_set").
+
+Tal que para 1997:
+
+`validation_set <- as.data.frame(t((cbind(agosto, septiembre, octubre, noviembre, diciembre))
+))`
+
+Y para 2021, el código sería el siguiente:
+
+`validation_set <- as.data.frame(t((cbind(enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre))
+))`
 
 ## Notas
 
@@ -73,3 +116,4 @@ dir_completa_de_guardado<-as.data.frame(dir_completa_de_guardado)
 2. Los datos descargados tienen un corte al último día del mes (asegurados totales al final de mes), sin embargo, **por practicidad del código** la notación de los archivos **cambia al primer dia del mes**: "asg-2012-12-31" cambia a "asg-2012-12-01", manteniendo, por supuesto, el mismo periodo de corte (final del mes).
 
 Cualquier duda o nota puedes colocarla en los issues del repositorio o en mis redes sociales: [twitter](https://www.twitter.com/vjvelascorios) o [mail](mailto:vj.velascorios@protonmail.com).
+

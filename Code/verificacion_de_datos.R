@@ -6,10 +6,11 @@ pacman::p_load(tidyverse, data.table, scales, lubridate, tibbletime)
 directorio <- ("C:\\Users\\vjvelascorios\\Downloads\\ASG IMSS")
 setwd(directorio)
 years <- list.dirs(path = directorio)
-########## 2018 ##########
+########## 2021 ##########
 # Establecer el año a verificar
-x <- '2021'
+x <- '2020'
 archivos <- list.files(path = paste0(directorio, "/",x) , full.names = T)
+
 # Lectura de archivos
 enero <- fread(archivos[1])
 enero <- enero %>% 
@@ -50,10 +51,7 @@ diciembre <- diciembre %>%
 gc()
 }
 {
-
-validation_set <- as.data.frame(t((cbind(enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre
-                                         # , octubre, noviembre, diciembre
-                                         ))
+validation_set <- as.data.frame(t((cbind(enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre))
 ))
 
 Time <- row.names(validation_set)
@@ -63,7 +61,7 @@ validation_set
 
 
 # Extracción de datos fuente
-datos_oficiales <- read_csv("/home/vjvelascorios/Documentos/Asegurados IMSS/Verificación Anual de los datos/asegurados_oficial.csv")
+datos_oficiales <- read_csv("https://raw.githubusercontent.com/vjvelascorios/Asegurados-IMSS/main/Utilities/asegurados_oficial.csv")
 datos_oficiales$Time <- lubridate::ym(datos_oficiales$Time)
 
 datos_comparacion <- as_tbl_time(datos_oficiales, index = Time) %>% 
@@ -77,7 +75,7 @@ validation_set$Time <- datos_comparacion$Time
 validation_f <- as_tibble(merge(validation_set, datos_comparacion, by="Time")) %>% 
   mutate("Diferencia"= as.numeric(valores) - NACIONAL)
 
-validation_f
+print(validation_f)
 validation_f %>% 
   ggplot(aes(Time,Diferencia))+
   geom_point()+
