@@ -73,7 +73,7 @@ Por la forma de descarga y no contar con una API, los archivos descargados puede
 - falta de memoria ram.
 - cambios en la dirección de descarga.
 
-Debido a lo anterior, se sugiere realizar la verificación anual de los archivos descargados, evaluando la sumatoria en el número de asegurados por mes.año
+Debido a lo anterior, se sugiere realizar la verificación anual de los archivos descargados (archivo `verificacion_de_datos.R` en la carpeta "Code"), evaluando la sumatoria en el número de asegurados por mes.año
 
 A continuación se describe el funcionamiento básico del código y el resultado final de la verificación.
 
