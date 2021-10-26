@@ -97,7 +97,7 @@ Una verificación anual correcta deberá dar como resultado las siguientes salid
 ![](Captures/5.PNG)
 ![](Captures/6.png)
 
-Los casos en los cuales es necesario cambiar un poco la codificación del archivo (crear el dataset de validación correcto) son aquellos años en los cuales no existen bases de datos de todos los meses en cuestión (1997, que va de agosto a diciembre) y donde no finaliza el año (2021, de enero a septiembre), por lo cual es necesario editar la linea 54 del código (creación del "validation_set").
+- Los casos en los cuales es necesario cambiar un poco la codificación del archivo (crear el dataset de validación correcto) son aquellos años en los cuales no existen bases de datos de todos los meses en cuestión (1997, que va de agosto a diciembre) y donde no finaliza el año (2021, de enero a septiembre), por lo cual es necesario editar la linea 54 del código (creación del "validation_set").
 
 Tal que para 1997:
 
@@ -109,12 +109,14 @@ Y para 2021, el código sería el siguiente:
 `validation_set <- as.data.frame(t((cbind(enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre))
 ))`
 
+
+- Para un correcto funcionamiento del código se recomienda tener por lo menos 4gb de RAM.
 ## Notas
 
 1. La única estructura de código que cambia en relación al ejemplo mínimo es el correspondiente al 1997, debido a que solo existen datos publicados para los últimos cinco meses del año.
 
 2. Los datos descargados tienen un corte al último día del mes (asegurados totales al final de mes), sin embargo, **por practicidad del código** la notación de los archivos **cambia al primer dia del mes**: "asg-2012-12-31" cambia a "asg-2012-12-01", manteniendo, por supuesto, el mismo periodo de corte (final del mes).
-3. Para un correcto funcionamiento del código se recomienda tener por lo menos 4gb de RAM.
+
 
 Cualquier duda o nota puedes colocarla en los issues del repositorio o en mis redes sociales: [twitter](https://www.twitter.com/vjvelascorios) o [mail](mailto:vj.velascorios@protonmail.com).
 
