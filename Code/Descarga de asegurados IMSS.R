@@ -4,7 +4,7 @@
 rm(list=ls())
 pacman::p_load(downloader, tidyverse, RCurl, beepr, tictoc)
 #Directorio general
-dir<-setwd("C:\\Users\\vjvelascorios\\Downloads\\ASG IMSS/")
+dir<-setwd("C:\\Users\\vjvel\\Downloads\\ASG IMSS/")
 #Se carga la tabla con las ligas para accesar a los datos
 links<-read_csv(url("https://raw.githubusercontent.com/vjvelascorios/Asegurados-IMSS/main/Utilities/Tabla_direcciones.csv"))
 tail(links)
@@ -1328,8 +1328,8 @@ beep(sound = 3)
     download.file(url= as.character(links_mensuales[10,3]) ,destfile=dir_completa_de_guardado[10,1]  , method = "libcurl")
     # # noviembre
     download.file(url= as.character(links_mensuales[11,3]) ,destfile=dir_completa_de_guardado[11,1]  , method = "libcurl")
-    # # diciembre
-    # download.file(url= as.character(links_mensuales[12,3]) ,destfile=dir_completa_de_guardado[12,1]  , method = "libcurl")
+    # diciembre
+    download.file(url= as.character(links_mensuales[12,3]) ,destfile=dir_completa_de_guardado[12,1]  , method = "libcurl")
     toc()
     beep(sound = 3)
   }
