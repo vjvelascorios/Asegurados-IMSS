@@ -1064,11 +1064,13 @@ body .markdown-body
 .highlight .il{color:#009999}
 .highlight .gc{color:#999;background-color:#EAF2F5}
 </style><title>README</title></head><body><article class="markdown-body"><h1 id="asegurados-en-el-instituto-mexicano-del-seguro-social-1997-2021">Asegurados en el Instituto Mexicano del Seguro Social (1997-2021)<a class="headerlink" href="#asegurados-en-el-instituto-mexicano-del-seguro-social-1997-2021" title="Permanent link"></a></h1>
-<p>Automatización para  la descarga de datos correspondientes a los <a href="http://datos.imss.gob.mx/dataset">asegurados</a> en el IMSS de 1997 al (2021).</p>
-<p>El código se actualizará en función de la publicación de nuevos datos posteriores al 2021, sin embargo, como alternativa se pretende realizar un código intuitivo para que el usuario pueda realizar modificaciones y extensiones por su propia cuenta. Adicionalmente, se adjunta un pequeño ejemplo sobre el funcionamiento y descarga de los datos.</p>
-<p>Adicionalmente,  puedes consultar el presente documento en mi <a href="https://vjvelascorios.netlify.app/posts/descarga-de-asegurados-imss/">sitio web</a> donde debido al resaltado del código es posible una mejor comprensión.</p>
+<p>Automatización para  la descarga de datos correspondientes a los <a href="http://datos.imss.gob.mx/dataset">asegurados</a> en el IMSS de 1997 al 2021.</p>
+<p>El código se encuentra actualizado hasta diciembre del 2021 y actualmente descontinuado, sin embargo, como alternativa se presenta un código intuitivo para que el usuario pueda realizar modificaciones y extensiones por cuenta propia. Adicionalmente, se adjunta un pequeño ejemplo sobre el funcionamiento y descarga de los datos, así como el código para la verificación de la integridad de los datos.</p>
 <h2 id="cambios-y-actualizaciones">Cambios y actualizaciones<a class="headerlink" href="#cambios-y-actualizaciones" title="Permanent link"></a></h2>
 <ul>
+<li>
+<p>2022/01/05: Actualización final a diciembre del 2021.</p>
+</li>
 <li>
 <p>2021/10/26: Código para la verificación anual de los datos (ver subsección correspondiente).</p>
 </li>
@@ -1137,27 +1139,32 @@ dir_completa_de_guardado<span class="o">&lt;-</span><span class="kp">as.data.fra
 <li>falta de memoria ram.</li>
 <li>cambios en la dirección de descarga.</li>
 </ul>
-<p>Debido a lo anterior, se sugiere realizar la verificación anual de los archivos descargados, evaluando la sumatoria en el número de asegurados por mes.año</p>
+<p>Debido a lo anterior, se sugiere realizar la verificación anual de los archivos descargados (archivo <code>verificacion_de_datos.R</code> en la carpeta &ldquo;Code&rdquo;), evaluando la sumatoria en el número de asegurados por mes.</p>
 <p>A continuación se describe el funcionamiento básico del código y el resultado final de la verificación.</p>
 <h3 id="1-directorio-de-los-archivos-descargados-por-ano">1. Directorio de los archivos descargados por año.<a class="headerlink" href="#1-directorio-de-los-archivos-descargados-por-ano" title="Permanent link"></a></h3>
 <p>Se establece el directorio raíz de los archivos descargados y se leen los directorios anuales.</p>
-<p><img alt="" src="/C:/Users/vjvelascorios/Google%20Drive/Xcore/Proyectos/Asegurados-IMSS/Captures/1.PNG" /></p>
+<p><img alt="" src="/C:/Users/vjvel/Documents/GitHub/Asegurados-IMSS/Captures/1.PNG" /></p>
 <h3 id="2-se-asigna-el-ano-a-verificar">2. Se asigna el año a verificar<a class="headerlink" href="#2-se-asigna-el-ano-a-verificar" title="Permanent link"></a></h3>
-<p><img alt="" src="/C:/Users/vjvelascorios/Google%20Drive/Xcore/Proyectos/Asegurados-IMSS/Captures/2.PNG" /></p>
+<p><img alt="" src="/C:/Users/vjvel/Documents/GitHub/Asegurados-IMSS/Captures/2.PNG" /></p>
 <h3 id="3-se-realiza-la-lectura-de-las-bases-de-datos-y-se-calcula-el-indicador-mensual-a-verificar-el-numero-total-de-asegurados">3. Se realiza la lectura de las bases de datos y se calcula el indicador mensual a verificar (el número total de asegurados).<a class="headerlink" href="#3-se-realiza-la-lectura-de-las-bases-de-datos-y-se-calcula-el-indicador-mensual-a-verificar-el-numero-total-de-asegurados" title="Permanent link"></a></h3>
-<p><img alt="" src="/C:/Users/vjvelascorios/Google%20Drive/Xcore/Proyectos/Asegurados-IMSS/Captures/3.PNG" /></p>
+<p><img alt="" src="/C:/Users/vjvel/Documents/GitHub/Asegurados-IMSS/Captures/3.PNG" /></p>
 <h3 id="4-se-crea-un-dataset-de-validacion-uniendo-los-datos-mensuales-anteriores-y-se-compara-con-la-fuente-oficial-por-medio-del-calculo-de-diferencias-de-datos">4. Se crea un dataset de validación  uniendo los datos mensuales anteriores y se compara con la fuente oficial por medio del cálculo de diferencias de datos.<a class="headerlink" href="#4-se-crea-un-dataset-de-validacion-uniendo-los-datos-mensuales-anteriores-y-se-compara-con-la-fuente-oficial-por-medio-del-calculo-de-diferencias-de-datos" title="Permanent link"></a></h3>
-<p><img alt="" src="/C:/Users/vjvelascorios/Google%20Drive/Xcore/Proyectos/Asegurados-IMSS/Captures/4.PNG" /></p>
+<p><img alt="" src="/C:/Users/vjvel/Documents/GitHub/Asegurados-IMSS/Captures/4.PNG" /></p>
 <p>Una verificación anual correcta deberá dar como resultado las siguientes salidas, evidenciando que la diferencias de comparación son nulas.
-<img alt="" src="/C:/Users/vjvelascorios/Google%20Drive/Xcore/Proyectos/Asegurados-IMSS/Captures/5.PNG" />
-<img alt="" src="/C:/Users/vjvelascorios/Google%20Drive/Xcore/Proyectos/Asegurados-IMSS/Captures/6.png" /></p>
-<p>Los casos en los cuales es necesario cambiar un poco la codificación del archivo (crear el dataset de validación correcto) son aquellos años en los cuales no existen bases de datos de todos los meses en cuestión (1997, que va de agosto a diciembre) y donde no finaliza el año (2021, de enero a septiembre), por lo cual es necesario editar la linea 54 del código (creación del &ldquo;validation_set&rdquo;).</p>
+<img alt="" src="/C:/Users/vjvel/Documents/GitHub/Asegurados-IMSS/Captures/5.PNG" />
+<img alt="" src="/C:/Users/vjvel/Documents/GitHub/Asegurados-IMSS/Captures/6.png" /></p>
+<ul>
+<li>Los casos en los cuales es necesario cambiar un poco la codificación del archivo (crear el dataset de validación correcto) son aquellos años en los cuales no existen bases de datos de todos los meses en cuestión (1997, que va de agosto a diciembre) y donde no finaliza el año (2021, de enero a septiembre), por lo cual es necesario editar la linea 54 del código (creación del &ldquo;validation_set&rdquo;).</li>
+</ul>
 <p>Tal que para 1997:</p>
 <p><code>validation_set &lt;- as.data.frame(t((cbind(agosto, septiembre, octubre, noviembre, diciembre))
 ))</code></p>
 <p>Y para 2021, el código sería el siguiente:</p>
 <p><code>validation_set &lt;- as.data.frame(t((cbind(enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre))
 ))</code></p>
+<ul>
+<li>Para un correcto funcionamiento del código se recomienda tener por lo menos 4gb de RAM.</li>
+</ul>
 <h2 id="notas">Notas<a class="headerlink" href="#notas" title="Permanent link"></a></h2>
 <ol>
 <li>
@@ -1167,4 +1174,4 @@ dir_completa_de_guardado<span class="o">&lt;-</span><span class="kp">as.data.fra
 <p>Los datos descargados tienen un corte al último día del mes (asegurados totales al final de mes), sin embargo, <strong>por practicidad del código</strong> la notación de los archivos <strong>cambia al primer dia del mes</strong>: &ldquo;asg-2012-12-31&rdquo; cambia a &ldquo;asg-2012-12-01&rdquo;, manteniendo, por supuesto, el mismo periodo de corte (final del mes).</p>
 </li>
 </ol>
-<p>Cualquier duda o nota puedes colocarla en los issues del repositorio o en mis redes sociales: <a href="https://www.twitter.com/vjvelascorios">twitter</a> o <a href="mailto:vj.velascorios@protonmail.com">mail</a>.</p></article></body></html>
+<p>Cualquier duda o nota puedes colocarla en los issues del repositorio.</p></article></body></html>

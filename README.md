@@ -1,11 +1,12 @@
 # Asegurados en el Instituto Mexicano del Seguro Social (1997-2021)
 
-Automatización para  la descarga de datos correspondientes a los [asegurados](http://datos.imss.gob.mx/dataset) en el IMSS de 1997 al (2021).
+Automatización para  la descarga de datos correspondientes a los [asegurados](http://datos.imss.gob.mx/dataset) en el IMSS de 1997 al 2021.
 
-El código se actualizará en función de la publicación de nuevos datos posteriores al 2021, sin embargo, como alternativa se pretende realizar un código intuitivo para que el usuario pueda realizar modificaciones y extensiones por su propia cuenta. Adicionalmente, se adjunta un pequeño ejemplo sobre el funcionamiento y descarga de los datos.
+El código se encuentra actualizado hasta diciembre del 2021 y actualmente descontinuado, sin embargo, como alternativa se presenta un código intuitivo para que el usuario pueda realizar modificaciones y extensiones por cuenta propia. Adicionalmente, se adjunta un pequeño ejemplo sobre el funcionamiento y descarga de los datos, así como el código para la verificación de la integridad de los datos.
 
-Adicionalmente,  puedes consultar el presente documento en mi [sitio web](https://vjvelascorios.netlify.app/posts/descarga-de-asegurados-imss/) donde debido al resaltado del código es posible una mejor comprensión.
 ## Cambios y actualizaciones
+
+- 2022/01/05: Actualización final a diciembre del 2021.
 
 - 2021/10/26: Código para la verificación anual de los datos (ver subsección correspondiente).
 
@@ -24,10 +25,12 @@ El código adjuntado en el repositorio permite correr el script de forma integra
 pacman::p_load(downloader, tidyverse, RCurl, beepr, tictoc)
 dir<-setwd("Z:/Datos/ASG IMSS/")
 ```
+
 ### 2. Se descarga y lee los datos con las direcciones de los distintos archivos a descargar (1997 hasta lo último disponible).
 ``` r
 links<-read_csv(url("https://raw.githubusercontent.com/vjvelascorios/Asegurados-IMSS/main/Utilities/Tabla_direcciones.csv"))
 ```
+
 ### 3. Se realizan los ajustes previos para la descarga de los datos.
 Nota: La variable *x* cambia en función del año que se quiera descargar.
 ``` r
@@ -118,5 +121,4 @@ Y para 2021, el código sería el siguiente:
 2. Los datos descargados tienen un corte al último día del mes (asegurados totales al final de mes), sin embargo, **por practicidad del código** la notación de los archivos **cambia al primer dia del mes**: "asg-2012-12-31" cambia a "asg-2012-12-01", manteniendo, por supuesto, el mismo periodo de corte (final del mes).
 
 
-Cualquier duda o nota puedes colocarla en los issues del repositorio o en mis redes sociales: [twitter](https://www.twitter.com/vjvelascorios) o [mail](mailto:vj.velascorios@protonmail.com).
-
+Cualquier duda o nota puedes colocarla en los issues del repositorio.
