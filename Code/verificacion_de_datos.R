@@ -2,13 +2,15 @@
 {
 rm(list=ls())
 pacman::p_load(tidyverse, data.table, scales, lubridate, tibbletime)
+
 # Directorio raíz
-directorio <- ("C:\\Users\\vjvelascorios\\Downloads\\ASG IMSS")
+directorio <- ("C:\\Users\\vjvel\\Downloads\\ASG IMSS")
 setwd(directorio)
 years <- list.dirs(path = directorio)
+
 ########## 2021 ##########
 # Establecer el año a verificar
-x <- '2020'
+x <- '2021'
 archivos <- list.files(path = paste0(directorio, "/",x) , full.names = T)
 
 # Lectura de archivos
