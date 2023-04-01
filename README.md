@@ -6,6 +6,8 @@ El código se encuentra actualizado hasta diciembre del 2021 y actualmente desco
 
 ## Cambios y actualizaciones
 
+- 2023/04/01: Introducing a loop version (check `/Code/`) for data download.
+
 - 2022/01/05: Actualización final a diciembre del 2021.
 
 - 2021/10/26: Código para la verificación anual de los datos (ver subsección correspondiente).
@@ -114,6 +116,13 @@ Y para 2021, el código sería el siguiente:
 
 
 - Para un correcto funcionamiento del código se recomienda tener por lo menos 4gb de RAM.
+
+## Loop version y serialización
+
+Se introdujo una versión del código la cual utiliza loops para la descarga de datos, tanto para años específicos, como para la totalidad de datos disponibles.
+
+
+
 ## Notas
 
 1. La única estructura de código que cambia en relación al ejemplo mínimo es el correspondiente al 1997, debido a que solo existen datos publicados para los últimos cinco meses del año.
