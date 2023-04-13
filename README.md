@@ -6,6 +6,8 @@ El código se encuentra actualizado hasta diciembre del 2021 y actualmente desco
 
 ## Cambios y actualizaciones
 
+- 2023/04/12: Serialización anual de datos.
+
 - 2023/04/01: Introducing a loop version (check `/Code/`) for data download.
 
 - 2022/01/05: Actualización final a diciembre del 2021.
@@ -117,9 +119,38 @@ Y para 2021, el código sería el siguiente:
 
 - Para un correcto funcionamiento del código se recomienda tener por lo menos 4gb de RAM.
 
-## Loop version y serialización
+## Loop version
 
 Se introdujo una versión del código la cual utiliza loops para la descarga de datos, tanto para años específicos, como para la totalidad de datos disponibles.
+
+## Serialización
+
+Debido a que suele ser un inconveniente operar con archivos `.csv` de gran tamaño, se introdujo en `/Code/Serializacion de datos en una carpeta.R` el ejemplo para la serialización de un año entero (12 archivos), reduciendo el tamaño y facilitando la operación en un entorno de `R` a través de la utilización de archivos `.qs`, utilizando el paquete del mismo nombre. Tal ejemplo es extensible a otros formatos de datos serializados (`.parrot`) y otros tipo de datos (reconversión de la totalidad de archivos dentro de una carpeta).
+
+### Funcionamiento
+
+1. Generación de los nombres de los archivos serializados a través de la generación de la secuencia mensual de los nombres de los archivos (en este caso, 2022), y su posterior unión con la cadena del tipo de archivo serializado (`.qs`).
+    
+    `serialized_files_names <- paste0(seq(as.Date("2022/1/1"), by = "month", length.out = 12),".qs")`
+
+2. Indicar la ruta de destino de los archivos:
+
+    `saving_diretory <- "/home/vjvelascorios/files/IMSS/qs_files/"`
+3. Obtención de la ruta completa de archivos a leer, la cual posteriormente se utilizará en el loop.
+
+    `target_files <- list.files(path = "/home/vjvelascorios/files/IMSS/2022/", full.names = T)`
+
+- En los tres pasos anteriores es necesario cambiar las rutas de destino, de acuerdo a las características de ruta de cada usuario.
+
+4. Se establece el loop el cual indica que deberá leer cada uno de los valores en el vector `target_files` y posteriormente guardarlo con el nombre indicado, resultado de `paste0(saving_diretory,serialized_files_names[i])`.
+
+`for (i in 1:length(target_files)) {
+  data <- read_csv(target_files[i], 
+                   locale = locale(encoding = "ISO-8859-1"))
+  qsave(data,file = paste0(saving_diretory,serialized_files_names[i]))
+}`
+
+
 
 
 
