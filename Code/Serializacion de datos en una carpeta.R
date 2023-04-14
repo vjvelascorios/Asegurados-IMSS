@@ -13,7 +13,7 @@ serialized_files_names <- paste0(seq(as.Date("2022/1/1"), by = "month", length.o
 # Se indica el directorio donde se guardar�n los archivos serializados
 saving_diretory <- "/home/vjvelascorios/files/IMSS/qs_files/"
 # Se obtiene la ruta completa de los archivos objetivos a serializar (todos los archivos del 2020)
-target_files <- list.files(path = "/home/vjvelascorios/files/IMSS/2023/", full.names = T)
+target_files <- list.files(path = "/home/vjvelascorios/files/IMSS/2022/", full.names = T)
 
 
 # Se establece el loop el cual lee cada archivo en `target_files` y lo guarda con su respectivo nombre
